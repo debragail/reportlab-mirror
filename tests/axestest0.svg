@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="100" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 200 100" width="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="100" width="200" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-100)">
+		<g transform="">
+			<g transform="">
+				<g transform="">
+					<path d="M 30.000000,70.000000 L 170.000000,70.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+				</g>
+				<g transform="">
+					<path d="M 30.000000,70.000000 L 30.000000,65.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					<path d="M 58.000000,70.000000 L 58.000000,65.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					<path d="M 86.000000,70.000000 L 86.000000,65.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					<path d="M 114.000000,70.000000 L 114.000000,65.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					<path d="M 142.000000,70.000000 L 142.000000,65.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					<path d="M 170.000000,70.000000 L 170.000000,65.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+				</g>
+				<g transform="">
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,44.000000,65.000000)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-8.33" y="-10.0">One</text>
+					</g>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,72.000000,65.000000)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-9.165" y="-10.0">Two</text>
+					</g>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,100.000000,65.000000)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-11.66" y="-10.0">Three</text>
+					</g>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,128.000000,65.000000)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-9.445" y="-10.0">Four</text>
+					</g>
+					<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,156.000000,65.000000)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-17.78" y="-4.0">Five</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="240.20000000000002" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 756 240" width="756.284" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="240.20000000000002" width="756.284" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-240)">
+		<g transform="">
+			<g transform="">
+				<rect height="24.400000000000006" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(82%,82%,82%);" width="569.068" x="8" y="208.4"/>
+				<text style="font-family: Times-Roman; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,431) scale(1,-1)" x="10" y="215.8">Times-Roman: I should be totally horizontal and enclosed in a box and end in alphabetagamma ¢©®£ʥЖփאقকαβγ</text>
+			</g>
+			<g transform="">
+				<rect height="24.400000000000006" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(82%,82%,82%);" width="631.83203125" x="8" y="179.0"/>
+				<text style="font-family: Vera; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,372) scale(1,-1)" x="10" y="186.4">Vera: I should be totally horizontal and enclosed in a box and end in alphabetagamma ¢©®£ʥЖփאقকαβγ</text>
+			</g>
+			<g transform="">
+				<rect height="24.400000000000006" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(82%,82%,82%);" width="598.216" x="8" y="149.6"/>
+				<text style="font-family: Times-BoldItalic; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,314) scale(1,-1)" x="10" y="157.0">Times-BoldItalic: I should be totally horizontal and enclosed in a box and end in alphabetagamma ¢©®£ʥЖփאقকαβγ</text>
+			</g>
+			<g transform="">
+				<rect height="24.400000000000006" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(82%,82%,82%);" width="740.284" x="8" y="120.19999999999999"/>
+				<text style="font-family: Courier; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,255) scale(1,-1)" x="10" y="127.6">Courier: I should be totally horizontal and enclosed in a box and end in alphabetagamma ¢©®£ʥЖփאقকαβγ</text>
+			</g>
+			<g transform="">
+				<rect height="24.400000000000006" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(82%,82%,82%);" width="592.504" x="8" y="90.79999999999998"/>
+				<text style="font-family: Helvetica; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,196) scale(1,-1)" x="10" y="98.19999999999999">Helvetica: I should be totally horizontal and enclosed in a box and end in alphabetagamma ¢©®£ʥЖփאقকαβγ</text>
+			</g>
+			<g transform="">
+				<rect height="24.4" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(82%,82%,82%);" width="716.458984375" x="8" y="61.399999999999984"/>
+				<text style="font-family: VeraBd; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,137) scale(1,-1)" x="10" y="68.79999999999998">VeraBd: I should be totally horizontal and enclosed in a box and end in alphabetagamma ¢©®£ʥЖփאقকαβγ</text>
+			</g>
+			<g transform="">
+				<rect height="24.4" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(82%,82%,82%);" width="640.076171875" x="8" y="31.999999999999986"/>
+				<text style="font-family: VeraIt; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,78) scale(1,-1)" x="10" y="39.399999999999984">VeraIt: I should be totally horizontal and enclosed in a box and end in alphabetagamma ¢©®£ʥЖփאقকαβγ</text>
+			</g>
+			<g transform="">
+				<rect height="24.4" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(82%,82%,82%);" width="712.333984375" x="8" y="2.5999999999999854"/>
+				<text style="font-family: VeraBI; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,19) scale(1,-1)" x="10" y="9.999999999999986">VeraBI: I should be totally horizontal and enclosed in a box and end in alphabetagamma ¢©®£ʥЖփאقকαβγ</text>
+			</g>
+		</g>
+	</g>
+</svg>

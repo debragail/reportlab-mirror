@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="200" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 400 200" width="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="200" width="400" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-200)">
+		<g transform="">
+			<text style="font-family: Times-Roman; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,68) scale(1,-1)" x="34" y="34">Hello World</text>
+			<text style="font-family: Times-Roman; font-size: 16px; fill: rgb(0%,0%,0%);" transform="translate(0,84) scale(1,-1)" x="42" y="42">Hello World</text>
+			<text style="font-family: Times-Roman; font-size: 20px; fill: rgb(0%,0%,0%);" transform="translate(0,100) scale(1,-1)" x="50" y="50">Hello World</text>
+			<text style="font-family: Times-Roman; font-size: 24px; fill: rgb(0%,0%,0%);" transform="translate(0,116) scale(1,-1)" x="58" y="58">Hello World</text>
+			<text style="font-family: Times-Roman; font-size: 28px; fill: rgb(0%,0%,0%);" transform="translate(0,132) scale(1,-1)" x="66" y="66">Hello World</text>
+			<text style="font-family: Times-Roman; font-size: 32px; fill: rgb(0%,0%,0%);" transform="translate(0,148) scale(1,-1)" x="74" y="74">Hello World</text>
+			<text style="font-family: Vera; font-size: 36px; fill: rgb(0%,0%,0%);" transform="translate(0,300) scale(1,-1)" x="150" y="150">Hello World</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="200.0" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 600 200" width="600.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="200.0" width="600.0" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-200)">
+		<g transform="">
+			<g transform=" matrix(1.000000,0.000000,0.000000,-1.000000,0.000000,200.000000)">
+				<rect height="199" style="stroke: rgb(0%,0%,100%); stroke-linecap: butt; stroke-width: 2; fill: none;" width="599" x="1" y="1"/>
+				<g transform=" matrix(0.500000,0.000000,0.000000,0.500000,0.000000,0.000000)">
+					<path d="M 250.000000 75.000000 L 323.000000 301.000000 L 131.000000 161.000000 L 369.000000 161.000000 L 177.000000 301.000000 Z " style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 3; fill: rgb(100%,0%,0%);"/>
+					<g transform=" matrix(0.309017,0.951057,-0.951057,0.309017,306.210000,249.000000)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(-0.809017,-0.587785,0.587785,-0.809017,175.160000,193.200000)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,314.260000,161.000000)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(-0.809017,0.587785,-0.587785,-0.809017,221.160000,268.800000)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(0.309017,-0.951057,0.951057,0.309017,233.210000,126.980000)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<path d="M 600.000000 81.000000 C 659.094500 81.000000 707.000000 128.905500 707.000000 188.000000 C 707.000000 247.094500 659.094500 295.000000 600.000000 295.000000 C 540.905500 295.000000 493.000000 247.094500 493.000000 188.000000 C 493.000000 128.905500 540.905500 81.000000 600.000000 81.000000 Z M 600.000000 139.000000 C 627.062000 139.000000 649.000000 160.938000 649.000000 188.000000 C 649.000000 215.062000 627.062000 237.000000 600.000000 237.000000 C 572.938000 237.000000 551.000000 215.062000 551.000000 188.000000 C 551.000000 160.938000 572.938000 139.000000 600.000000 139.000000 Z " style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 3; fill: rgb(100%,0%,0%);"/>
+					<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,707.000000,188.000000)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(-0.866025,-0.500000,0.500000,-0.866025,546.500000,280.664700)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(0.866025,-0.500000,0.500000,0.866025,546.500000,95.335280)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(-0.866025,0.500000,-0.500000,-0.866025,624.500000,230.435200)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(0.000000,-1.000000,1.000000,0.000000,551.000000,188.000000)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(0.866025,0.500000,-0.500000,0.866025,624.500000,145.564800)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<path d="M 950.000000 81.000000 C 1009.094000 81.000000 1057.000000 128.905500 1057.000000 188.000000 C 1057.000000 247.094500 1009.094000 295.000000 950.000000 295.000000 C 890.905500 295.000000 843.000000 247.094500 843.000000 188.000000 C 843.000000 128.905500 890.905500 81.000000 950.000000 81.000000 Z M 950.000000 139.000000 C 922.938000 139.000000 901.000000 160.938000 901.000000 188.000000 C 901.000000 215.062000 922.938000 237.000000 950.000000 237.000000 C 977.062000 237.000000 999.000000 215.062000 999.000000 188.000000 C 999.000000 160.938000 977.062000 139.000000 950.000000 139.000000 Z " style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 3; fill: rgb(100%,0%,0%);"/>
+					<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,1057.000000,188.000000)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(-0.866025,-0.500000,0.500000,-0.866025,896.500000,280.664700)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(0.866025,-0.500000,0.500000,0.866025,896.500000,95.335280)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(0.866025,-0.500000,0.500000,0.866025,974.500000,230.435200)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,901.000000,188.000000)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+					<g transform=" matrix(-0.866025,-0.500000,0.500000,-0.866025,974.500000,145.564800)">
+						<path d="M 16.000000 0.000000 L -8.000000 9.000000 L -8.000000 -9.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

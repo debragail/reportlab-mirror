@@ -1,0 +1,140 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 12 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Length 80 /Subtype /PS /Type /XObject
+>>
+stream
+/Helvetica findfont 48 scalefont setfont 100 400 moveto (Hello PostScript) show
+endstream
+endobj
+6 0 obj
+<<
+/Length 11 /Subtype /PS /Type /XObject
+>>
+stream
+%PS_BEFORE
+endstream
+endobj
+7 0 obj
+<<
+/Length 10 /Subtype /PS /Type /XObject
+>>
+stream
+%PS_AFTER
+endstream
+endobj
+8 0 obj
+<<
+/Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
+/FormXob.PS36bc3935d5e2d91d05049071ade5a99a 7 0 R /FormXob.PSa460830213aad0a5d620e7c5af271ce5 6 0 R /FormXob.PSa6554c42c2251829eaa1422b89f365b0 5 0 R
+>>
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/PageMode /UseNone /Pages 11 0 R /Type /Catalog
+>>
+endobj
+10 0 obj
+<<
+/Author (anonymous) /CreationDate (D:20200521015720+08'00') /Creator (ReportLab PDF Library - www.reportlab.com) /Keywords () /ModDate (D:20200521015720+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (unspecified) /Title (untitled) /Trapped /False
+>>
+endobj
+11 0 obj
+<<
+/Count 2 /Kids [ 4 0 R 8 0 R ] /Type /Pages
+>>
+endobj
+12 0 obj
+<<
+/Length 149
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 18 Tf 21.6 TL ET
+BT 1 0 0 1 100 700 Tm (Hello World. This is page 1 of a 2 page document.) Tj T* ET
+ 
+endstream
+endobj
+13 0 obj
+<<
+/Length 832
+>>
+stream
+/FormXob.PSa460830213aad0a5d620e7c5af271ce5 Do
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 16 Tf 19.2 TL ET
+BT 1 0 0 1 100 700 Tm (Page 2. This has some postscript drawing code.) Tj T* ET
+BT 1 0 0 1 100 680 Tm (If you print it using a PS device and Acrobat 4/5,) Tj T* ET
+BT 1 0 0 1 100 660 Tm (or export to Postscript, you should see the word) Tj T* ET
+BT 1 0 0 1 100 640 Tm ("Hello PostScript" below.  In ordinary Acrobat Reader) Tj T* ET
+BT 1 0 0 1 100 620 Tm (we expect to see nothing.) Tj T* ET
+/FormXob.PSa6554c42c2251829eaa1422b89f365b0 Do
+BT 1 0 0 1 100 500 Tm (This document also inserts two postscript) Tj T* ET
+BT 1 0 0 1 100 480 Tm ( comments at beginning and endof the stream;) Tj T* ET
+BT 1 0 0 1 100 460 Tm (search files for "%PS_BEFORE" and "%PS_AFTER".) Tj T* ET
+ 
+/FormXob.PS36bc3935d5e2d91d05049071ade5a99a Do
+endstream
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000538 00000 n 
+0000000695 00000 n 
+0000000783 00000 n 
+0000000870 00000 n 
+0000001240 00000 n 
+0000001309 00000 n 
+0000001606 00000 n 
+0000001672 00000 n 
+0000001872 00000 n 
+trailer
+<<
+/ID 
+[<4f818ef7222857ce8c31ccdf1a0fcc4e><4f818ef7222857ce8c31ccdf1a0fcc4e>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 10 0 R
+/Root 9 0 R
+/Size 14
+>>
+startxref
+2755
+%%EOF

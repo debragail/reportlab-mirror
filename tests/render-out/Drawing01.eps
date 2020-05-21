@@ -1,0 +1,95 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 0 0 400 200
+%% Initialization:
+/m {moveto} bind def
+/l {lineto} bind def
+/c {curveto} bind def
+
+
+/RE { %def
+  findfont begin
+  currentdict dup length dict begin
+ { %forall
+   1 index /FID ne { def } { pop pop } ifelse
+ } forall
+ /FontName exch def dup length 0 ne { %if
+   /Encoding Encoding 256 array copy def
+   0 exch { %forall
+     dup type /nametype eq { %ifelse
+       Encoding 2 index 2 index put
+       pop 1 add
+     }{ %else
+       exch pop
+     } ifelse
+   } forall
+ } if pop
+  currentdict dup end end
+  /FontName get exch definefont pop
+} bind def
+
+/WinAnsiEncoding [
+  39/quotesingle 96/grave 128/euro 130/quotesinglbase/florin/quotedblbase
+  /ellipsis/dagger/daggerdbl/circumflex/perthousand
+  /Scaron/guilsinglleft/OE 145/quoteleft/quoteright
+  /quotedblleft/quotedblright/bullet/endash/emdash
+  /tilde/trademark/scaron/guilsinglright/oe/dotlessi
+  159/Ydieresis 164/currency 166/brokenbar 168/dieresis/copyright
+  /ordfeminine 172/logicalnot 174/registered/macron/ring
+  177/plusminus/twosuperior/threesuperior/acute/mu
+  183/periodcentered/cedilla/onesuperior/ordmasculine
+  188/onequarter/onehalf/threequarters 192/Agrave/Aacute
+  /Acircumflex/Atilde/Adieresis/Aring/AE/Ccedilla
+  /Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute
+  /Icircumflex/Idieresis/Eth/Ntilde/Ograve/Oacute
+  /Ocircumflex/Otilde/Odieresis/multiply/Oslash
+  /Ugrave/Uacute/Ucircumflex/Udieresis/Yacute/Thorn
+  /germandbls/agrave/aacute/acircumflex/atilde/adieresis
+  /aring/ae/ccedilla/egrave/eacute/ecircumflex
+  /edieresis/igrave/iacute/icircumflex/idieresis
+  /eth/ntilde/ograve/oacute/ocircumflex/otilde
+  /odieresis/divide/oslash/ugrave/uacute/ucircumflex
+  /udieresis/yacute/thorn/ydieresis
+] def
+
+WinAnsiEncoding /Times-Roman /Times-Roman RE
+(Times-Roman) findfont 10 scalefont setfont
+0 0 0 setrgbcolor
+2 setlinecap
+0 setlinejoin
+1 setlinewidth
+gsave
+[1 0 0 1 0 0] concat
+0 setlinecap
+[] 0 setdash
+gsave
+[1 0 0 1 0 0] concat
+gsave
+1 1 0 setrgbcolor
+0 0 0 setrgbcolor
+[] 0 setdash
+50 50 m
+350 50 l
+350 150 l
+50 150 l
+closepath
+gsave
+1 1 0 setrgbcolor
+eofill
+grestore
+0 0 0 setrgbcolor
+stroke
+grestore
+gsave
+1 0 0 setrgbcolor
+180 100 m (Hello World) show 
+grestore
+gsave
+1 0 0 setrgbcolor
+180 86 m (Special characters \242\251\256\243) show 
+(Symbol) findfont 10 scalefont setfont
+280.17 86 m (ab) show 
+
+grestore
+grestore
+grestore
+showpage

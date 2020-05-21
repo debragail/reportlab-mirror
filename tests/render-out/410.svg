@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="100.0" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 100 100" width="100.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="100.0" width="100.0" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-100)">
+		<g transform="">
+			<g transform=" matrix(1.000000,0.000000,0.000000,-1.000000,0.000000,100.000000)">
+				<path d="M 30.000000 1.000000 L 70.000000 1.000000 L 99.000000 30.000000 L 99.000000 70.000000 L 70.000000 99.000000 L 30.000000 99.000000 L 1.000000 70.000000 L 1.000000 30.000000 Z " style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);"/>
+				<path d="M 31.000000 3.000000 L 69.000000 3.000000 L 97.000000 31.000000 L 97.000000 69.000000 L 69.000000 97.000000 L 31.000000 97.000000 L 3.000000 69.000000 L 3.000000 31.000000 Z " style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(66%,13%,20%);"/>
+				<g transform=" matrix(1.000000,0.000000,0.000000,-1.000000,0.000000,136.000000)">
+					<text style="font-family: Helvetica; font-size: 48px; fill: rgb(100%,100%,100%);" transform="translate(0,136) scale(1,-1)" x="9.968000000000004" y="68">410</text>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

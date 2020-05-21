@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="650" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 450 650" width="450" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="650" width="450" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-650)">
+		<g transform="">
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%);" width="50" x="20" y="530"/>
+				<g transform=""/>
+				<g transform="">
+					<path d="M 20.000000,530.000000 L 20.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 40.000000,530.000000 L 40.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 60.000000,530.000000 L 60.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 70.000000,530.000000 L 70.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+				</g>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%);" width="50" x="100" y="530"/>
+				<g transform=""/>
+				<g transform="">
+					<path d="M 100.000000,530.000000 L 100.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 110.000000,530.000000 L 110.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 130.000000,530.000000 L 130.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 150.000000,530.000000 L 150.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+				</g>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%);" width="50" x="180" y="530"/>
+				<g transform=""/>
+				<g transform="">
+					<path d="M 180.000000,530.000000 L 230.000000,530.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 180.000000,550.000000 L 230.000000,550.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 180.000000,570.000000 L 230.000000,570.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 180.000000,580.000000 L 230.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+				</g>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%);" width="50" x="260" y="530"/>
+				<g transform=""/>
+				<g transform="">
+					<path d="M 260.000000,530.000000 L 260.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 265.000000,530.000000 L 265.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 275.000000,530.000000 L 275.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 295.000000,530.000000 L 295.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 310.000000,530.000000 L 310.000000,580.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+				</g>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%);" width="50" x="20" y="450"/>
+				<g transform="">
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="20" x="20" y="450"/>
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,50%,0%);" width="20" x="40" y="450"/>
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,100%);" width="10" x="60" y="450"/>
+				</g>
+				<g transform=""/>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%);" width="50" x="100" y="450"/>
+				<g transform="">
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="10" x="100" y="450"/>
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,50%,0%);" width="20" x="110" y="450"/>
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,100%);" width="20" x="130" y="450"/>
+				</g>
+				<g transform=""/>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%);" width="50" x="180" y="450"/>
+				<g transform="">
+					<rect height="20" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="50" x="180" y="450"/>
+					<rect height="20" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,50%,0%);" width="50" x="180" y="470"/>
+					<rect height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,100%);" width="50" x="180" y="490"/>
+				</g>
+				<g transform=""/>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%);" width="50" x="260" y="450"/>
+				<g transform="">
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="5" x="260" y="450"/>
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,50%,0%);" width="10" x="265" y="450"/>
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,100%);" width="20" x="275" y="450"/>
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="15" x="295" y="450"/>
+				</g>
+				<g transform=""/>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%);" width="50" x="20" y="370"/>
+				<g transform="">
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="20" x="20" y="370"/>
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,50%,0%);" width="20" x="40" y="370"/>
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,100%);" width="10" x="60" y="370"/>
+				</g>
+				<g transform="">
+					<path d="M 20.000000,370.000000 L 20.000000,420.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 40.000000,370.000000 L 40.000000,420.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 60.000000,370.000000 L 60.000000,420.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 70.000000,370.000000 L 70.000000,420.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+				</g>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%);" width="50" x="100" y="370"/>
+				<g transform="">
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="10" x="100" y="370"/>
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,50%,0%);" width="20" x="110" y="370"/>
+					<rect height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,100%);" width="20" x="130" y="370"/>
+				</g>
+				<g transform="">
+					<path d="M 100.000000,370.000000 L 100.000000,420.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 110.000000,370.000000 L 110.000000,420.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 130.000000,370.000000 L 130.000000,420.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 150.000000,370.000000 L 150.000000,420.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+				</g>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%);" width="50" x="180" y="370"/>
+				<g transform="">
+					<rect height="20" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="50" x="180" y="370"/>
+					<rect height="20" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,50%,0%);" width="50" x="180" y="390"/>
+					<rect height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,100%);" width="50" x="180" y="410"/>
+				</g>
+				<g transform="">
+					<path d="M 180.000000,370.000000 L 230.000000,370.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 180.000000,390.000000 L 230.000000,390.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 180.000000,410.000000 L 230.000000,410.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 180.000000,420.000000 L 230.000000,420.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+				</g>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);" width="10.0" x="20.0" y="290"/>
+				<rect height="50" style="stroke: rgb(25%,25%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(25%,25%,25%);" width="10.0" x="30.0" y="290"/>
+				<rect height="50" style="stroke: rgb(50%,50%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,50%,50%);" width="10.0" x="40.0" y="290"/>
+				<rect height="50" style="stroke: rgb(75%,75%,75%); stroke-linecap: butt; stroke-width: 1; fill: rgb(75%,75%,75%);" width="10.0" x="50.0" y="290"/>
+				<rect height="50" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%);" width="10.0" x="60.0" y="290"/>
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none;" width="50" x="20" y="290"/>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);" width="25.0" x="100.0" y="290"/>
+				<rect height="50" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%);" width="25.0" x="125.0" y="290"/>
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none;" width="50" x="100" y="290"/>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%);" width="50.0" x="180" y="290"/>
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none;" width="50" x="180" y="290"/>
+			</g>
+			<g transform="">
+				<rect height="5.0" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="50" x="20" y="210.0"/>
+				<rect height="5.0" style="stroke: rgb(88%,0%,11%); stroke-linecap: butt; stroke-width: 1; fill: rgb(88%,0%,11%);" width="50" x="20" y="215.0"/>
+				<rect height="5.0" style="stroke: rgb(77%,0%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,0%,22%);" width="50" x="20" y="220.0"/>
+				<rect height="5.0" style="stroke: rgb(66%,0%,33%); stroke-linecap: butt; stroke-width: 1; fill: rgb(66%,0%,33%);" width="50" x="20" y="225.0"/>
+				<rect height="5.0" style="stroke: rgb(55%,0%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(55%,0%,44%);" width="50" x="20" y="230.0"/>
+				<rect height="5.0" style="stroke: rgb(44%,0%,55%); stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,0%,55%);" width="50" x="20" y="235.0"/>
+				<rect height="5.0" style="stroke: rgb(33%,0%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(33%,0%,66%);" width="50" x="20" y="240.0"/>
+				<rect height="5.0" style="stroke: rgb(22%,0%,77%); stroke-linecap: butt; stroke-width: 1; fill: rgb(22%,0%,77%);" width="50" x="20" y="245.0"/>
+				<rect height="5.0" style="stroke: rgb(11%,0%,88%); stroke-linecap: butt; stroke-width: 1; fill: rgb(11%,0%,88%);" width="50" x="20" y="250.0"/>
+				<rect height="5.0" style="stroke: rgb(0%,0%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,100%);" width="50" x="20" y="255.0"/>
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none;" width="50" x="20" y="210"/>
+			</g>
+			<g transform="">
+				<rect height="2.5" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="50" x="100" y="210.0"/>
+				<rect height="2.5" style="stroke: rgb(94%,0%,5%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,0%,5%);" width="50" x="100" y="212.5"/>
+				<rect height="2.5" style="stroke: rgb(89%,0%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,0%,10%);" width="50" x="100" y="215.0"/>
+				<rect height="2.5" style="stroke: rgb(84%,0%,15%); stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,0%,15%);" width="50" x="100" y="217.5"/>
+				<rect height="2.5" style="stroke: rgb(78%,0%,21%); stroke-linecap: butt; stroke-width: 1; fill: rgb(78%,0%,21%);" width="50" x="100" y="220.0"/>
+				<rect height="2.5" style="stroke: rgb(73%,0%,26%); stroke-linecap: butt; stroke-width: 1; fill: rgb(73%,0%,26%);" width="50" x="100" y="222.5"/>
+				<rect height="2.5" style="stroke: rgb(68%,0%,31%); stroke-linecap: butt; stroke-width: 1; fill: rgb(68%,0%,31%);" width="50" x="100" y="225.0"/>
+				<rect height="2.5" style="stroke: rgb(63%,0%,36%); stroke-linecap: butt; stroke-width: 1; fill: rgb(63%,0%,36%);" width="50" x="100" y="227.5"/>
+				<rect height="2.5" style="stroke: rgb(57%,0%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(57%,0%,42%);" width="50" x="100" y="230.0"/>
+				<rect height="2.5" style="stroke: rgb(52%,0%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(52%,0%,47%);" width="50" x="100" y="232.5"/>
+				<rect height="2.5" style="stroke: rgb(47%,0%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(47%,0%,52%);" width="50" x="100" y="235.0"/>
+				<rect height="2.5" style="stroke: rgb(42%,0%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(42%,0%,57%);" width="50" x="100" y="237.5"/>
+				<rect height="2.5" style="stroke: rgb(36%,0%,63%); stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,0%,63%);" width="50" x="100" y="240.0"/>
+				<rect height="2.5" style="stroke: rgb(31%,0%,68%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,0%,68%);" width="50" x="100" y="242.5"/>
+				<rect height="2.5" style="stroke: rgb(26%,0%,73%); stroke-linecap: butt; stroke-width: 1; fill: rgb(26%,0%,73%);" width="50" x="100" y="245.0"/>
+				<rect height="2.5" style="stroke: rgb(21%,0%,78%); stroke-linecap: butt; stroke-width: 1; fill: rgb(21%,0%,78%);" width="50" x="100" y="247.5"/>
+				<rect height="2.5" style="stroke: rgb(15%,0%,84%); stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,0%,84%);" width="50" x="100" y="250.0"/>
+				<rect height="2.5" style="stroke: rgb(10%,0%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,0%,89%);" width="50" x="100" y="252.5"/>
+				<rect height="2.5" style="stroke: rgb(5%,0%,94%); stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,0%,94%);" width="50" x="100" y="255.0"/>
+				<rect height="2.5" style="stroke: rgb(0%,0%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,100%);" width="50" x="100" y="257.5"/>
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none;" width="50" x="100" y="210"/>
+			</g>
+			<g transform="">
+				<rect height="1.0" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="50" x="180" y="210.0"/>
+				<rect height="1.0" style="stroke: rgb(97%,0%,2%); stroke-linecap: butt; stroke-width: 1; fill: rgb(97%,0%,2%);" width="50" x="180" y="211.0"/>
+				<rect height="1.0" style="stroke: rgb(95%,0%,4%); stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,0%,4%);" width="50" x="180" y="212.0"/>
+				<rect height="1.0" style="stroke: rgb(93%,0%,6%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,0%,6%);" width="50" x="180" y="213.0"/>
+				<rect height="1.0" style="stroke: rgb(91%,0%,8%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,0%,8%);" width="50" x="180" y="214.0"/>
+				<rect height="1.0" style="stroke: rgb(89%,0%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,0%,10%);" width="50" x="180" y="215.0"/>
+				<rect height="1.0" style="stroke: rgb(87%,0%,12%); stroke-linecap: butt; stroke-width: 1; fill: rgb(87%,0%,12%);" width="50" x="180" y="216.0"/>
+				<rect height="1.0" style="stroke: rgb(85%,0%,14%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,0%,14%);" width="50" x="180" y="217.0"/>
+				<rect height="1.0" style="stroke: rgb(83%,0%,16%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,0%,16%);" width="50" x="180" y="218.0"/>
+				<rect height="1.0" style="stroke: rgb(81%,0%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(81%,0%,18%);" width="50" x="180" y="219.0"/>
+				<rect height="1.0" style="stroke: rgb(79%,0%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(79%,0%,20%);" width="50" x="180" y="220.0"/>
+				<rect height="1.0" style="stroke: rgb(77%,0%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,0%,22%);" width="50" x="180" y="221.0"/>
+				<rect height="1.0" style="stroke: rgb(75%,0%,24%); stroke-linecap: butt; stroke-width: 1; fill: rgb(75%,0%,24%);" width="50" x="180" y="222.0"/>
+				<rect height="1.0" style="stroke: rgb(73%,0%,26%); stroke-linecap: butt; stroke-width: 1; fill: rgb(73%,0%,26%);" width="50" x="180" y="223.0"/>
+				<rect height="1.0" style="stroke: rgb(71%,0%,28%); stroke-linecap: butt; stroke-width: 1; fill: rgb(71%,0%,28%);" width="50" x="180" y="224.0"/>
+				<rect height="1.0" style="stroke: rgb(69%,0%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(69%,0%,30%);" width="50" x="180" y="225.0"/>
+				<rect height="1.0" style="stroke: rgb(67%,0%,32%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,0%,32%);" width="50" x="180" y="226.0"/>
+				<rect height="1.0" style="stroke: rgb(65%,0%,34%); stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,0%,34%);" width="50" x="180" y="227.0"/>
+				<rect height="1.0" style="stroke: rgb(63%,0%,36%); stroke-linecap: butt; stroke-width: 1; fill: rgb(63%,0%,36%);" width="50" x="180" y="228.0"/>
+				<rect height="1.0" style="stroke: rgb(61%,0%,38%); stroke-linecap: butt; stroke-width: 1; fill: rgb(61%,0%,38%);" width="50" x="180" y="229.0"/>
+				<rect height="1.0" style="stroke: rgb(59%,0%,40%); stroke-linecap: butt; stroke-width: 1; fill: rgb(59%,0%,40%);" width="50" x="180" y="230.0"/>
+				<rect height="1.0" style="stroke: rgb(57%,0%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(57%,0%,42%);" width="50" x="180" y="231.0"/>
+				<rect height="1.0" style="stroke: rgb(55%,0%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(55%,0%,44%);" width="50" x="180" y="232.0"/>
+				<rect height="1.0" style="stroke: rgb(53%,0%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(53%,0%,46%);" width="50" x="180" y="233.0"/>
+				<rect height="1.0" style="stroke: rgb(51%,0%,48%); stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,0%,48%);" width="50" x="180" y="234.0"/>
+				<rect height="1.0" style="stroke: rgb(48%,0%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(48%,0%,51%);" width="50" x="180" y="235.0"/>
+				<rect height="1.0" style="stroke: rgb(46%,0%,53%); stroke-linecap: butt; stroke-width: 1; fill: rgb(46%,0%,53%);" width="50" x="180" y="236.0"/>
+				<rect height="1.0" style="stroke: rgb(44%,0%,55%); stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,0%,55%);" width="50" x="180" y="237.0"/>
+				<rect height="1.0" style="stroke: rgb(42%,0%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(42%,0%,57%);" width="50" x="180" y="238.0"/>
+				<rect height="1.0" style="stroke: rgb(40%,0%,59%); stroke-linecap: butt; stroke-width: 1; fill: rgb(40%,0%,59%);" width="50" x="180" y="239.0"/>
+				<rect height="1.0" style="stroke: rgb(38%,0%,61%); stroke-linecap: butt; stroke-width: 1; fill: rgb(38%,0%,61%);" width="50" x="180" y="240.0"/>
+				<rect height="1.0" style="stroke: rgb(36%,0%,63%); stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,0%,63%);" width="50" x="180" y="241.0"/>
+				<rect height="1.0" style="stroke: rgb(34%,0%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,0%,65%);" width="50" x="180" y="242.0"/>
+				<rect height="1.0" style="stroke: rgb(32%,0%,67%); stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,0%,67%);" width="50" x="180" y="243.0"/>
+				<rect height="1.0" style="stroke: rgb(30%,0%,69%); stroke-linecap: butt; stroke-width: 1; fill: rgb(30%,0%,69%);" width="50" x="180" y="244.0"/>
+				<rect height="1.0" style="stroke: rgb(28%,0%,71%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,0%,71%);" width="50" x="180" y="245.0"/>
+				<rect height="1.0" style="stroke: rgb(26%,0%,73%); stroke-linecap: butt; stroke-width: 1; fill: rgb(26%,0%,73%);" width="50" x="180" y="246.0"/>
+				<rect height="1.0" style="stroke: rgb(24%,0%,75%); stroke-linecap: butt; stroke-width: 1; fill: rgb(24%,0%,75%);" width="50" x="180" y="247.0"/>
+				<rect height="1.0" style="stroke: rgb(22%,0%,77%); stroke-linecap: butt; stroke-width: 1; fill: rgb(22%,0%,77%);" width="50" x="180" y="248.0"/>
+				<rect height="1.0" style="stroke: rgb(20%,0%,79%); stroke-linecap: butt; stroke-width: 1; fill: rgb(20%,0%,79%);" width="50" x="180" y="249.0"/>
+				<rect height="1.0" style="stroke: rgb(18%,0%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,0%,81%);" width="50" x="180" y="250.0"/>
+				<rect height="1.0" style="stroke: rgb(16%,0%,83%); stroke-linecap: butt; stroke-width: 1; fill: rgb(16%,0%,83%);" width="50" x="180" y="251.0"/>
+				<rect height="1.0" style="stroke: rgb(14%,0%,85%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,0%,85%);" width="50" x="180" y="252.0"/>
+				<rect height="1.0" style="stroke: rgb(12%,0%,87%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,0%,87%);" width="50" x="180" y="253.0"/>
+				<rect height="1.0" style="stroke: rgb(10%,0%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,0%,89%);" width="50" x="180" y="254.0"/>
+				<rect height="1.0" style="stroke: rgb(8%,0%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,0%,91%);" width="50" x="180" y="255.0"/>
+				<rect height="1.0" style="stroke: rgb(6%,0%,93%); stroke-linecap: butt; stroke-width: 1; fill: rgb(6%,0%,93%);" width="50" x="180" y="256.0"/>
+				<rect height="1.0" style="stroke: rgb(4%,0%,95%); stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,0%,95%);" width="50" x="180" y="257.0"/>
+				<rect height="1.0" style="stroke: rgb(2%,0%,97%); stroke-linecap: butt; stroke-width: 1; fill: rgb(2%,0%,97%);" width="50" x="180" y="258.0"/>
+				<rect height="1.0" style="stroke: rgb(0%,0%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,100%);" width="50" x="180" y="259.0"/>
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none;" width="50" x="180" y="210"/>
+			</g>
+			<g transform="">
+				<rect height="5.0" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%);" width="50" x="20" y="130.0"/>
+				<rect height="5.0" style="stroke: rgb(88%,94%,88%); stroke-linecap: butt; stroke-width: 1; fill: rgb(88%,94%,88%);" width="50" x="20" y="135.0"/>
+				<rect height="5.0" style="stroke: rgb(77%,88%,77%); stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,88%,77%);" width="50" x="20" y="140.0"/>
+				<rect height="5.0" style="stroke: rgb(66%,83%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(66%,83%,66%);" width="50" x="20" y="145.0"/>
+				<rect height="5.0" style="stroke: rgb(55%,77%,55%); stroke-linecap: butt; stroke-width: 1; fill: rgb(55%,77%,55%);" width="50" x="20" y="150.0"/>
+				<rect height="5.0" style="stroke: rgb(44%,72%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,72%,44%);" width="50" x="20" y="155.0"/>
+				<rect height="5.0" style="stroke: rgb(33%,66%,33%); stroke-linecap: butt; stroke-width: 1; fill: rgb(33%,66%,33%);" width="50" x="20" y="160.0"/>
+				<rect height="5.0" style="stroke: rgb(22%,61%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(22%,61%,22%);" width="50" x="20" y="165.0"/>
+				<rect height="5.0" style="stroke: rgb(11%,55%,11%); stroke-linecap: butt; stroke-width: 1; fill: rgb(11%,55%,11%);" width="50" x="20" y="170.0"/>
+				<rect height="5.0" style="stroke: rgb(0%,50%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,50%,0%);" width="50" x="20" y="175.0"/>
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none;" width="50" x="20" y="130"/>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%);" width="2.5" x="100.0" y="130"/>
+				<rect height="50" style="stroke: rgb(94%,97%,94%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,97%,94%);" width="2.5" x="102.5" y="130"/>
+				<rect height="50" style="stroke: rgb(89%,94%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,89%);" width="2.5" x="105.0" y="130"/>
+				<rect height="50" style="stroke: rgb(84%,92%,84%); stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,92%,84%);" width="2.5" x="107.5" y="130"/>
+				<rect height="50" style="stroke: rgb(78%,89%,78%); stroke-linecap: butt; stroke-width: 1; fill: rgb(78%,89%,78%);" width="2.5" x="110.0" y="130"/>
+				<rect height="50" style="stroke: rgb(73%,86%,73%); stroke-linecap: butt; stroke-width: 1; fill: rgb(73%,86%,73%);" width="2.5" x="112.5" y="130"/>
+				<rect height="50" style="stroke: rgb(68%,84%,68%); stroke-linecap: butt; stroke-width: 1; fill: rgb(68%,84%,68%);" width="2.5" x="115.0" y="130"/>
+				<rect height="50" style="stroke: rgb(63%,81%,63%); stroke-linecap: butt; stroke-width: 1; fill: rgb(63%,81%,63%);" width="2.5" x="117.5" y="130"/>
+				<rect height="50" style="stroke: rgb(57%,79%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(57%,79%,57%);" width="2.5" x="120.0" y="130"/>
+				<rect height="50" style="stroke: rgb(52%,76%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(52%,76%,52%);" width="2.5" x="122.5" y="130"/>
+				<rect height="50" style="stroke: rgb(47%,73%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(47%,73%,47%);" width="2.5" x="125.0" y="130"/>
+				<rect height="50" style="stroke: rgb(42%,71%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(42%,71%,42%);" width="2.5" x="127.5" y="130"/>
+				<rect height="50" style="stroke: rgb(36%,68%,36%); stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,68%,36%);" width="2.5" x="130.0" y="130"/>
+				<rect height="50" style="stroke: rgb(31%,65%,31%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,65%,31%);" width="2.5" x="132.5" y="130"/>
+				<rect height="50" style="stroke: rgb(26%,63%,26%); stroke-linecap: butt; stroke-width: 1; fill: rgb(26%,63%,26%);" width="2.5" x="135.0" y="130"/>
+				<rect height="50" style="stroke: rgb(21%,60%,21%); stroke-linecap: butt; stroke-width: 1; fill: rgb(21%,60%,21%);" width="2.5" x="137.5" y="130"/>
+				<rect height="50" style="stroke: rgb(15%,58%,15%); stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,58%,15%);" width="2.5" x="140.0" y="130"/>
+				<rect height="50" style="stroke: rgb(10%,55%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,55%,10%);" width="2.5" x="142.5" y="130"/>
+				<rect height="50" style="stroke: rgb(5%,52%,5%); stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,52%,5%);" width="2.5" x="145.0" y="130"/>
+				<rect height="50" style="stroke: rgb(0%,50%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,50%,0%);" width="2.5" x="147.5" y="130"/>
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none;" width="50" x="100" y="130"/>
+			</g>
+			<g transform="">
+				<rect height="1.0" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%);" width="50" x="180" y="130.0"/>
+				<rect height="1.0" style="stroke: rgb(97%,98%,97%); stroke-linecap: butt; stroke-width: 1; fill: rgb(97%,98%,97%);" width="50" x="180" y="131.0"/>
+				<rect height="1.0" style="stroke: rgb(95%,97%,95%); stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,97%,95%);" width="50" x="180" y="132.0"/>
+				<rect height="1.0" style="stroke: rgb(93%,96%,93%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,93%);" width="50" x="180" y="133.0"/>
+				<rect height="1.0" style="stroke: rgb(91%,95%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,95%,91%);" width="50" x="180" y="134.0"/>
+				<rect height="1.0" style="stroke: rgb(89%,94%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,89%);" width="50" x="180" y="135.0"/>
+				<rect height="1.0" style="stroke: rgb(87%,93%,87%); stroke-linecap: butt; stroke-width: 1; fill: rgb(87%,93%,87%);" width="50" x="180" y="136.0"/>
+				<rect height="1.0" style="stroke: rgb(85%,92%,85%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,92%,85%);" width="50" x="180" y="137.0"/>
+				<rect height="1.0" style="stroke: rgb(83%,91%,83%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,91%,83%);" width="50" x="180" y="138.0"/>
+				<rect height="1.0" style="stroke: rgb(81%,90%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(81%,90%,81%);" width="50" x="180" y="139.0"/>
+				<rect height="1.0" style="stroke: rgb(79%,89%,79%); stroke-linecap: butt; stroke-width: 1; fill: rgb(79%,89%,79%);" width="50" x="180" y="140.0"/>
+				<rect height="1.0" style="stroke: rgb(77%,88%,77%); stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,88%,77%);" width="50" x="180" y="141.0"/>
+				<rect height="1.0" style="stroke: rgb(75%,87%,75%); stroke-linecap: butt; stroke-width: 1; fill: rgb(75%,87%,75%);" width="50" x="180" y="142.0"/>
+				<rect height="1.0" style="stroke: rgb(73%,86%,73%); stroke-linecap: butt; stroke-width: 1; fill: rgb(73%,86%,73%);" width="50" x="180" y="143.0"/>
+				<rect height="1.0" style="stroke: rgb(71%,85%,71%); stroke-linecap: butt; stroke-width: 1; fill: rgb(71%,85%,71%);" width="50" x="180" y="144.0"/>
+				<rect height="1.0" style="stroke: rgb(69%,84%,69%); stroke-linecap: butt; stroke-width: 1; fill: rgb(69%,84%,69%);" width="50" x="180" y="145.0"/>
+				<rect height="1.0" style="stroke: rgb(67%,83%,67%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,83%,67%);" width="50" x="180" y="146.0"/>
+				<rect height="1.0" style="stroke: rgb(65%,82%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,82%,65%);" width="50" x="180" y="147.0"/>
+				<rect height="1.0" style="stroke: rgb(63%,81%,63%); stroke-linecap: butt; stroke-width: 1; fill: rgb(63%,81%,63%);" width="50" x="180" y="148.0"/>
+				<rect height="1.0" style="stroke: rgb(61%,80%,61%); stroke-linecap: butt; stroke-width: 1; fill: rgb(61%,80%,61%);" width="50" x="180" y="149.0"/>
+				<rect height="1.0" style="stroke: rgb(59%,79%,59%); stroke-linecap: butt; stroke-width: 1; fill: rgb(59%,79%,59%);" width="50" x="180" y="150.0"/>
+				<rect height="1.0" style="stroke: rgb(57%,78%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(57%,78%,57%);" width="50" x="180" y="151.0"/>
+				<rect height="1.0" style="stroke: rgb(55%,77%,55%); stroke-linecap: butt; stroke-width: 1; fill: rgb(55%,77%,55%);" width="50" x="180" y="152.0"/>
+				<rect height="1.0" style="stroke: rgb(53%,76%,53%); stroke-linecap: butt; stroke-width: 1; fill: rgb(53%,76%,53%);" width="50" x="180" y="153.0"/>
+				<rect height="1.0" style="stroke: rgb(51%,75%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,75%,51%);" width="50" x="180" y="154.0"/>
+				<rect height="1.0" style="stroke: rgb(48%,74%,48%); stroke-linecap: butt; stroke-width: 1; fill: rgb(48%,74%,48%);" width="50" x="180" y="155.0"/>
+				<rect height="1.0" style="stroke: rgb(46%,73%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(46%,73%,46%);" width="50" x="180" y="156.0"/>
+				<rect height="1.0" style="stroke: rgb(44%,72%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,72%,44%);" width="50" x="180" y="157.0"/>
+				<rect height="1.0" style="stroke: rgb(42%,71%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(42%,71%,42%);" width="50" x="180" y="158.0"/>
+				<rect height="1.0" style="stroke: rgb(40%,70%,40%); stroke-linecap: butt; stroke-width: 1; fill: rgb(40%,70%,40%);" width="50" x="180" y="159.0"/>
+				<rect height="1.0" style="stroke: rgb(38%,69%,38%); stroke-linecap: butt; stroke-width: 1; fill: rgb(38%,69%,38%);" width="50" x="180" y="160.0"/>
+				<rect height="1.0" style="stroke: rgb(36%,68%,36%); stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,68%,36%);" width="50" x="180" y="161.0"/>
+				<rect height="1.0" style="stroke: rgb(34%,67%,34%); stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,67%,34%);" width="50" x="180" y="162.0"/>
+				<rect height="1.0" style="stroke: rgb(32%,66%,32%); stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,66%,32%);" width="50" x="180" y="163.0"/>
+				<rect height="1.0" style="stroke: rgb(30%,65%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(30%,65%,30%);" width="50" x="180" y="164.0"/>
+				<rect height="1.0" style="stroke: rgb(28%,64%,28%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,64%,28%);" width="50" x="180" y="165.0"/>
+				<rect height="1.0" style="stroke: rgb(26%,63%,26%); stroke-linecap: butt; stroke-width: 1; fill: rgb(26%,63%,26%);" width="50" x="180" y="166.0"/>
+				<rect height="1.0" style="stroke: rgb(24%,62%,24%); stroke-linecap: butt; stroke-width: 1; fill: rgb(24%,62%,24%);" width="50" x="180" y="167.0"/>
+				<rect height="1.0" style="stroke: rgb(22%,61%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(22%,61%,22%);" width="50" x="180" y="168.0"/>
+				<rect height="1.0" style="stroke: rgb(20%,60%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(20%,60%,20%);" width="50" x="180" y="169.0"/>
+				<rect height="1.0" style="stroke: rgb(18%,59%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,59%,18%);" width="50" x="180" y="170.0"/>
+				<rect height="1.0" style="stroke: rgb(16%,58%,16%); stroke-linecap: butt; stroke-width: 1; fill: rgb(16%,58%,16%);" width="50" x="180" y="171.0"/>
+				<rect height="1.0" style="stroke: rgb(14%,57%,14%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,57%,14%);" width="50" x="180" y="172.0"/>
+				<rect height="1.0" style="stroke: rgb(12%,56%,12%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,56%,12%);" width="50" x="180" y="173.0"/>
+				<rect height="1.0" style="stroke: rgb(10%,55%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,55%,10%);" width="50" x="180" y="174.0"/>
+				<rect height="1.0" style="stroke: rgb(8%,54%,8%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,54%,8%);" width="50" x="180" y="175.0"/>
+				<rect height="1.0" style="stroke: rgb(6%,53%,6%); stroke-linecap: butt; stroke-width: 1; fill: rgb(6%,53%,6%);" width="50" x="180" y="176.0"/>
+				<rect height="1.0" style="stroke: rgb(4%,52%,4%); stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,52%,4%);" width="50" x="180" y="177.0"/>
+				<rect height="1.0" style="stroke: rgb(2%,51%,2%); stroke-linecap: butt; stroke-width: 1; fill: rgb(2%,51%,2%);" width="50" x="180" y="178.0"/>
+				<rect height="1.0" style="stroke: rgb(0%,50%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,50%,0%);" width="50" x="180" y="179.0"/>
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none;" width="50" x="180" y="130"/>
+			</g>
+			<g transform="">
+				<rect height="5.0" style="stroke: rgb(0%,50%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,50%,0%);" width="50" x="20" y="50.0"/>
+				<rect height="5.0" style="stroke: rgb(11%,55%,11%); stroke-linecap: butt; stroke-width: 1; fill: rgb(11%,55%,11%);" width="50" x="20" y="55.0"/>
+				<rect height="5.0" style="stroke: rgb(22%,61%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(22%,61%,22%);" width="50" x="20" y="60.0"/>
+				<rect height="5.0" style="stroke: rgb(33%,66%,33%); stroke-linecap: butt; stroke-width: 1; fill: rgb(33%,66%,33%);" width="50" x="20" y="65.0"/>
+				<rect height="5.0" style="stroke: rgb(44%,72%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,72%,44%);" width="50" x="20" y="70.0"/>
+				<rect height="5.0" style="stroke: rgb(55%,77%,55%); stroke-linecap: butt; stroke-width: 1; fill: rgb(55%,77%,55%);" width="50" x="20" y="75.0"/>
+				<rect height="5.0" style="stroke: rgb(66%,83%,66%); stroke-linecap: butt; stroke-width: 1; fill: rgb(66%,83%,66%);" width="50" x="20" y="80.0"/>
+				<rect height="5.0" style="stroke: rgb(77%,88%,77%); stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,88%,77%);" width="50" x="20" y="85.0"/>
+				<rect height="5.0" style="stroke: rgb(88%,94%,88%); stroke-linecap: butt; stroke-width: 1; fill: rgb(88%,94%,88%);" width="50" x="20" y="90.0"/>
+				<rect height="5.0" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%);" width="50" x="20" y="95.0"/>
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none;" width="50" x="20" y="50"/>
+			</g>
+			<g transform="">
+				<rect height="50" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%);" width="2.5" x="100.0" y="50"/>
+				<rect height="50" style="stroke: rgb(94%,97%,94%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,97%,94%);" width="2.5" x="102.5" y="50"/>
+				<rect height="50" style="stroke: rgb(89%,94%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,89%);" width="2.5" x="105.0" y="50"/>
+				<rect height="50" style="stroke: rgb(84%,92%,84%); stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,92%,84%);" width="2.5" x="107.5" y="50"/>
+				<rect height="50" style="stroke: rgb(78%,89%,78%); stroke-linecap: butt; stroke-width: 1; fill: rgb(78%,89%,78%);" width="2.5" x="110.0" y="50"/>
+				<rect height="50" style="stroke: rgb(73%,86%,73%); stroke-linecap: butt; stroke-width: 1; fill: rgb(73%,86%,73%);" width="2.5" x="112.5" y="50"/>
+				<rect height="50" style="stroke: rgb(68%,84%,68%); stroke-linecap: butt; stroke-width: 1; fill: rgb(68%,84%,68%);" width="2.5" x="115.0" y="50"/>
+				<rect height="50" style="stroke: rgb(63%,81%,63%); stroke-linecap: butt; stroke-width: 1; fill: rgb(63%,81%,63%);" width="2.5" x="117.5" y="50"/>
+				<rect height="50" style="stroke: rgb(57%,79%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(57%,79%,57%);" width="2.5" x="120.0" y="50"/>
+				<rect height="50" style="stroke: rgb(52%,76%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(52%,76%,52%);" width="2.5" x="122.5" y="50"/>
+				<rect height="50" style="stroke: rgb(47%,73%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(47%,73%,47%);" width="2.5" x="125.0" y="50"/>
+				<rect height="50" style="stroke: rgb(42%,71%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(42%,71%,42%);" width="2.5" x="127.5" y="50"/>
+				<rect height="50" style="stroke: rgb(36%,68%,36%); stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,68%,36%);" width="2.5" x="130.0" y="50"/>
+				<rect height="50" style="stroke: rgb(31%,65%,31%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,65%,31%);" width="2.5" x="132.5" y="50"/>
+				<rect height="50" style="stroke: rgb(26%,63%,26%); stroke-linecap: butt; stroke-width: 1; fill: rgb(26%,63%,26%);" width="2.5" x="135.0" y="50"/>
+				<rect height="50" style="stroke: rgb(21%,60%,21%); stroke-linecap: butt; stroke-width: 1; fill: rgb(21%,60%,21%);" width="2.5" x="137.5" y="50"/>
+				<rect height="50" style="stroke: rgb(15%,58%,15%); stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,58%,15%);" width="2.5" x="140.0" y="50"/>
+				<rect height="50" style="stroke: rgb(10%,55%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,55%,10%);" width="2.5" x="142.5" y="50"/>
+				<rect height="50" style="stroke: rgb(5%,52%,5%); stroke-linecap: butt; stroke-width: 1; fill: rgb(5%,52%,5%);" width="2.5" x="145.0" y="50"/>
+				<rect height="50" style="stroke: rgb(0%,50%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,50%,0%);" width="2.5" x="147.5" y="50"/>
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none;" width="50" x="100" y="50"/>
+			</g>
+			<g transform="">
+				<rect height="1.0" style="stroke: rgb(0%,50%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,50%,0%);" width="50" x="180" y="50.0"/>
+				<rect height="1.0" style="stroke: rgb(2%,51%,2%); stroke-linecap: butt; stroke-width: 1; fill: rgb(2%,51%,2%);" width="50" x="180" y="51.0"/>
+				<rect height="1.0" style="stroke: rgb(4%,52%,4%); stroke-linecap: butt; stroke-width: 1; fill: rgb(4%,52%,4%);" width="50" x="180" y="52.0"/>
+				<rect height="1.0" style="stroke: rgb(6%,53%,6%); stroke-linecap: butt; stroke-width: 1; fill: rgb(6%,53%,6%);" width="50" x="180" y="53.0"/>
+				<rect height="1.0" style="stroke: rgb(8%,54%,8%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,54%,8%);" width="50" x="180" y="54.0"/>
+				<rect height="1.0" style="stroke: rgb(10%,55%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(10%,55%,10%);" width="50" x="180" y="55.0"/>
+				<rect height="1.0" style="stroke: rgb(12%,56%,12%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,56%,12%);" width="50" x="180" y="56.0"/>
+				<rect height="1.0" style="stroke: rgb(14%,57%,14%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,57%,14%);" width="50" x="180" y="57.0"/>
+				<rect height="1.0" style="stroke: rgb(16%,58%,16%); stroke-linecap: butt; stroke-width: 1; fill: rgb(16%,58%,16%);" width="50" x="180" y="58.0"/>
+				<rect height="1.0" style="stroke: rgb(18%,59%,18%); stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,59%,18%);" width="50" x="180" y="59.0"/>
+				<rect height="1.0" style="stroke: rgb(20%,60%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(20%,60%,20%);" width="50" x="180" y="60.0"/>
+				<rect height="1.0" style="stroke: rgb(22%,61%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(22%,61%,22%);" width="50" x="180" y="61.0"/>
+				<rect height="1.0" style="stroke: rgb(24%,62%,24%); stroke-linecap: butt; stroke-width: 1; fill: rgb(24%,62%,24%);" width="50" x="180" y="62.0"/>
+				<rect height="1.0" style="stroke: rgb(26%,63%,26%); stroke-linecap: butt; stroke-width: 1; fill: rgb(26%,63%,26%);" width="50" x="180" y="63.0"/>
+				<rect height="1.0" style="stroke: rgb(28%,64%,28%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,64%,28%);" width="50" x="180" y="64.0"/>
+				<rect height="1.0" style="stroke: rgb(30%,65%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(30%,65%,30%);" width="50" x="180" y="65.0"/>
+				<rect height="1.0" style="stroke: rgb(32%,66%,32%); stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,66%,32%);" width="50" x="180" y="66.0"/>
+				<rect height="1.0" style="stroke: rgb(34%,67%,34%); stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,67%,34%);" width="50" x="180" y="67.0"/>
+				<rect height="1.0" style="stroke: rgb(36%,68%,36%); stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,68%,36%);" width="50" x="180" y="68.0"/>
+				<rect height="1.0" style="stroke: rgb(38%,69%,38%); stroke-linecap: butt; stroke-width: 1; fill: rgb(38%,69%,38%);" width="50" x="180" y="69.0"/>
+				<rect height="1.0" style="stroke: rgb(40%,70%,40%); stroke-linecap: butt; stroke-width: 1; fill: rgb(40%,70%,40%);" width="50" x="180" y="70.0"/>
+				<rect height="1.0" style="stroke: rgb(42%,71%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(42%,71%,42%);" width="50" x="180" y="71.0"/>
+				<rect height="1.0" style="stroke: rgb(44%,72%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,72%,44%);" width="50" x="180" y="72.0"/>
+				<rect height="1.0" style="stroke: rgb(46%,73%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(46%,73%,46%);" width="50" x="180" y="73.0"/>
+				<rect height="1.0" style="stroke: rgb(48%,74%,48%); stroke-linecap: butt; stroke-width: 1; fill: rgb(48%,74%,48%);" width="50" x="180" y="74.0"/>
+				<rect height="1.0" style="stroke: rgb(51%,75%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(51%,75%,51%);" width="50" x="180" y="75.0"/>
+				<rect height="1.0" style="stroke: rgb(53%,76%,53%); stroke-linecap: butt; stroke-width: 1; fill: rgb(53%,76%,53%);" width="50" x="180" y="76.0"/>
+				<rect height="1.0" style="stroke: rgb(55%,77%,55%); stroke-linecap: butt; stroke-width: 1; fill: rgb(55%,77%,55%);" width="50" x="180" y="77.0"/>
+				<rect height="1.0" style="stroke: rgb(57%,78%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(57%,78%,57%);" width="50" x="180" y="78.0"/>
+				<rect height="1.0" style="stroke: rgb(59%,79%,59%); stroke-linecap: butt; stroke-width: 1; fill: rgb(59%,79%,59%);" width="50" x="180" y="79.0"/>
+				<rect height="1.0" style="stroke: rgb(61%,80%,61%); stroke-linecap: butt; stroke-width: 1; fill: rgb(61%,80%,61%);" width="50" x="180" y="80.0"/>
+				<rect height="1.0" style="stroke: rgb(63%,81%,63%); stroke-linecap: butt; stroke-width: 1; fill: rgb(63%,81%,63%);" width="50" x="180" y="81.0"/>
+				<rect height="1.0" style="stroke: rgb(65%,82%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,82%,65%);" width="50" x="180" y="82.0"/>
+				<rect height="1.0" style="stroke: rgb(67%,83%,67%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,83%,67%);" width="50" x="180" y="83.0"/>
+				<rect height="1.0" style="stroke: rgb(69%,84%,69%); stroke-linecap: butt; stroke-width: 1; fill: rgb(69%,84%,69%);" width="50" x="180" y="84.0"/>
+				<rect height="1.0" style="stroke: rgb(71%,85%,71%); stroke-linecap: butt; stroke-width: 1; fill: rgb(71%,85%,71%);" width="50" x="180" y="85.0"/>
+				<rect height="1.0" style="stroke: rgb(73%,86%,73%); stroke-linecap: butt; stroke-width: 1; fill: rgb(73%,86%,73%);" width="50" x="180" y="86.0"/>
+				<rect height="1.0" style="stroke: rgb(75%,87%,75%); stroke-linecap: butt; stroke-width: 1; fill: rgb(75%,87%,75%);" width="50" x="180" y="87.0"/>
+				<rect height="1.0" style="stroke: rgb(77%,88%,77%); stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,88%,77%);" width="50" x="180" y="88.0"/>
+				<rect height="1.0" style="stroke: rgb(79%,89%,79%); stroke-linecap: butt; stroke-width: 1; fill: rgb(79%,89%,79%);" width="50" x="180" y="89.0"/>
+				<rect height="1.0" style="stroke: rgb(81%,90%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(81%,90%,81%);" width="50" x="180" y="90.0"/>
+				<rect height="1.0" style="stroke: rgb(83%,91%,83%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,91%,83%);" width="50" x="180" y="91.0"/>
+				<rect height="1.0" style="stroke: rgb(85%,92%,85%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,92%,85%);" width="50" x="180" y="92.0"/>
+				<rect height="1.0" style="stroke: rgb(87%,93%,87%); stroke-linecap: butt; stroke-width: 1; fill: rgb(87%,93%,87%);" width="50" x="180" y="93.0"/>
+				<rect height="1.0" style="stroke: rgb(89%,94%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,94%,89%);" width="50" x="180" y="94.0"/>
+				<rect height="1.0" style="stroke: rgb(91%,95%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,95%,91%);" width="50" x="180" y="95.0"/>
+				<rect height="1.0" style="stroke: rgb(93%,96%,93%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,93%);" width="50" x="180" y="96.0"/>
+				<rect height="1.0" style="stroke: rgb(95%,97%,95%); stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,97%,95%);" width="50" x="180" y="97.0"/>
+				<rect height="1.0" style="stroke: rgb(97%,98%,97%); stroke-linecap: butt; stroke-width: 1; fill: rgb(97%,98%,97%);" width="50" x="180" y="98.0"/>
+				<rect height="1.0" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%);" width="50" x="180" y="99.0"/>
+				<rect height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none;" width="50" x="180" y="50"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="200" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 400 200" width="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="200" width="400" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-200)">
+		<g transform="">
+			<g transform="">
+				<path d="M 200.000000,100.000000 L 200.000000,150.000000 A 50.000000,50.000000 0 0 0 214.737759,147.778640 L 200.000000,100.000000 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(0%,0%,0%); stroke-linecap: round; stroke-width: 1; fill: rgb(0%,54%,54%); fill-rule: evenodd;"/>
+				<path d="M 200.000000,100.000000 L 214.737759,147.778640 A 50.000000,50.000000 0 0 0 239.091574,131.174490 L 200.000000,100.000000 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(0%,0%,0%); stroke-linecap: round; stroke-width: 1; fill: rgb(54%,16%,88%); fill-rule: evenodd;"/>
+				<path d="M 200.000000,100.000000 L 239.091574,131.174490 A 50.000000,50.000000 0 0 0 248.746396,88.873953 L 200.000000,100.000000 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(0%,0%,0%); stroke-linecap: round; stroke-width: 1; fill: rgb(0%,0%,100%); fill-rule: evenodd;"/>
+				<path d="M 213.603455,85.338963 L 262.349850,74.212916 A 50.000000,50.000000 0 0 0 221.055568,35.897421 L 213.603455,85.338963 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(0%,0%,0%); stroke-linecap: round; stroke-width: 2; fill: rgb(0%,100%,100%); fill-rule: evenodd; stroke-dasharray: 2, 2, 0;"/>
+				<path d="M 200.000000,100.000000 L 207.452113,50.558459 A 50.000000,50.000000 0 0 0 151.253604,88.873953 L 200.000000,100.000000 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(0%,0%,0%); stroke-linecap: round; stroke-width: 1; fill: rgb(100%,75%,79%); fill-rule: evenodd;"/>
+				<path d="M 200.000000,100.000000 L 151.253604,88.873953 A 50.000000,50.000000 0 0 0 200.000000,150.000000 L 200.000000,100.000000 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(0%,0%,0%); stroke-linecap: round; stroke-width: 1; fill: rgb(100%,0%,100%); fill-rule: evenodd;"/>
+				<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,318) scale(1,-1)" x="206.72253597057048" y="159.32984957350772">a</text>
+				<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,299) scale(1,-1)" x="231.2992034838173" y="149.5743264589597">b</text>
+				<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,226) scale(1,-1)" x="256.2756747309094" y="113.35125603737887">c</text>
+				<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(100%,0%,0%);" transform="translate(0,42) scale(1,-1)" x="270.61856931037386" y="21.19692377829368">d</text>
+				<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,100) scale(1,-1)" x="163.98079651618272" y="50.42567354104029">e</text>
+				<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,274) scale(1,-1)" x="151.42511105191818" y="137.40938811152395">f</text>
+			</g>
+		</g>
+	</g>
+</svg>

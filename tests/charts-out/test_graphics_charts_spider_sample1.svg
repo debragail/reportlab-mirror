@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="400" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 400 400" width="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="400" width="400" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-400)">
+		<g transform="">
+			<g transform="">
+				<polygon points="108.3032 252.9412, 200 288.2353, 291.6968 252.9412, 306.9796 138.2353, 200 58.82353, 93.02039 138.2353, 108.3032 252.9412" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,97%,86%);"/>
+				<polygon points="85.37899 266.1765, 200 252.9412, 261.1312 235.2941, 276.414 155.8824, 200 94.11765, 131.2274 160.2941, 85.37899 266.1765" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,100%,100%);"/>
+				<polygon points="138.8688 235.2941, 200 261.7647, 261.1312 235.2941, 329.9038 125, 200 164.7059, 108.3032 147.0588, 138.8688 235.2941" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(59%,98%,59%);"/>
+				<polyline points="108.3032 252.9412, 200 288.2353, 291.6968 252.9412, 306.9796 138.2353, 200 58.82353, 93.02039 138.2353, 108.3032 252.9412" style="stroke: rgb(100%,97%,86%); stroke-linecap: butt; stroke-width: 1; fill: None;"/>
+				<polyline points="85.37899 266.1765, 200 252.9412, 261.1312 235.2941, 276.414 155.8824, 200 94.11765, 131.2274 160.2941, 85.37899 266.1765" style="stroke: rgb(0%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: None;"/>
+				<polyline points="138.8688 235.2941, 200 261.7647, 261.1312 235.2941, 329.9038 125, 200 164.7059, 108.3032 147.0588, 138.8688 235.2941" style="stroke: rgb(59%,98%,59%); stroke-linecap: butt; stroke-width: 1; fill: None;"/>
+				<path d="M 200.000000,200.000000 L 200.000000,350.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; stroke-dasharray: 2, 2, 0;"/>
+				<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,200.000000,357.500000)">
+					<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-2.22" y="-4.0">a</text>
+				</g>
+				<path d="M 200.000000,200.000000 L 329.903811,275.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; stroke-dasharray: 2, 2, 0;"/>
+				<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,336.399001,278.750000)">
+					<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-2.5" y="-4.0">b</text>
+				</g>
+				<path d="M 200.000000,200.000000 L 329.903811,125.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; stroke-dasharray: 2, 2, 0;"/>
+				<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,336.399001,121.250000)">
+					<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-2.22" y="-4.0">c</text>
+				</g>
+				<path d="M 200.000000,200.000000 L 200.000000,50.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; stroke-dasharray: 2, 2, 0;"/>
+				<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,200.000000,42.500000)">
+					<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-2.5" y="-4.0">d</text>
+				</g>
+				<path d="M 200.000000,200.000000 L 70.096189,125.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; stroke-dasharray: 2, 2, 0;"/>
+				<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,63.600999,121.250000)">
+					<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-2.22" y="-4.0">e</text>
+				</g>
+				<path d="M 200.000000,200.000000 L 70.096189,275.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.5; stroke-dasharray: 2, 2, 0;"/>
+				<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,63.600999,278.750000)">
+					<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-1.665" y="-4.0">f</text>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

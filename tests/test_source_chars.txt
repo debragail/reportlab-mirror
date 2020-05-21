@@ -1,0 +1,47 @@
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/rl_settings.py contains 5 trailing spaces, or 0.04% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/renderSVG.py contains 29 trailing spaces, or 0.08% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/widgetbase.py contains 20 trailing spaces, or 0.08% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/renderPDF.py contains 4 trailing spaces, or 0.03% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/barcode/usps4s.py contains 2 trailing spaces, or 0.01% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/barcode/__init__.py contains 8 trailing spaces, or 0.14% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/barcode/test.py contains 6 trailing spaces, or 0.06% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/barcode/common.py contains 1 trailing spaces, or 0.00% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/barcode/code128.py contains 75 trailing spaces, or 0.41% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/barcode/code93.py contains 63 trailing spaces, or 0.69% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/charts/doughnut.py contains 64 trailing spaces, or 0.33% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/charts/piecharts.py contains 55 trailing spaces, or 0.08% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/charts/legends.py contains 9 trailing spaces, or 0.04% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/charts/barcharts.py contains 14 trailing spaces, or 0.02% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/charts/utils.py contains 4 trailing spaces, or 0.03% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/graphics/charts/axes.py contains 25 trailing spaces, or 0.03% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/sequencer.py contains 4 trailing spaces, or 0.04% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/randomtext.py contains 2 trailing spaces, or 0.01% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/pygments2xpre.py contains 4 trailing spaces, or 0.15% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/textsplit.py contains 37 trailing spaces, or 0.38% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/codecharts.py contains 24 trailing spaces, or 0.18% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/boxstuff.py contains 1 trailing spaces, or 0.03% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/pdfencrypt.py contains 114 trailing spaces, or 0.37% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/extformat.py contains 114 tab characters!
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/utils.py contains 75 trailing spaces, or 0.15% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/styles.py contains 25 trailing spaces, or 0.15% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/rl_safe_eval.py contains 2626 tab characters!
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/rl_safe_eval.py contains 5 trailing spaces, or 0.01% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/attrmap.py contains 12 trailing spaces, or 0.22% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/corp.py contains 8 trailing spaces, or 0.03% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/arciv.py contains 201 tab characters!
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/normalDate.py contains 4 trailing spaces, or 0.02% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/lib/colors.py contains 1 trailing spaces, or 0.00% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/pdfgen/canvas.py contains 233 trailing spaces, or 0.29% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/pdfbase/_fontdata.py contains 11 trailing spaces, or 0.11% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/pdfbase/pdfmetrics.py contains 20 trailing spaces, or 0.07% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/pdfbase/cidfonts.py contains 16 trailing spaces, or 0.08% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/pdfbase/ttfonts.py contains 45 trailing spaces, or 0.08% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/pdfbase/_can_cmap_data.py contains 37 trailing spaces, or 2.03% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/pdfbase/_glyphlist.py contains 4283 tab characters!
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/pdfbase/acroform.py contains 26 trailing spaces, or 0.06% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/pdfbase/pdfutils.py contains 12 trailing spaces, or 0.12% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/platypus/doctemplate.py contains 1 trailing spaces, or 0.00% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/platypus/paragraph.py contains 4 trailing spaces, or 0.00% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/platypus/xpreformatted.py contains 52 trailing spaces, or 0.40% wastage
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/platypus/multicol.py contains 280 tab characters!
+file /Library/Python/3.7/site-packages/reportlab-3.5.42-py3.7-macosx-10.14-x86_64.egg/reportlab/platypus/tables.py contains 12 trailing spaces, or 0.02% wastage

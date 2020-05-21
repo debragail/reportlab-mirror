@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="200" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 400 200" width="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="200" width="400" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-200)">
+		<g transform="">
+			<g transform="">
+				<g transform="">
+					<rect height="125" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: none;" width="300" x="50" y="50"/>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 50.000000,50.000000 L 350.000000,50.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 110.000000,50.000000 L 110.000000,45.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 170.000000,50.000000 L 170.000000,45.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 200.000000,50.000000 L 200.000000,45.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 230.000000,50.000000 L 230.000000,45.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 290.000000,50.000000 L 290.000000,45.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 350.000000,50.000000 L 350.000000,45.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,110.000000,45.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-6.25" y="-10.0">1.0</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,170.000000,45.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-6.25" y="-10.0">2.0</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,200.000000,45.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-6.25" y="-10.0">2.5</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,230.000000,45.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-6.25" y="-10.0">3.0</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,290.000000,45.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-6.25" y="-10.0">4.0</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,350.000000,45.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-6.25" y="-10.0">5.0</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 50.000000,50.000000 L 50.000000,175.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 50.000000,50.000000 L 45.000000,50.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,67.857143 L 45.000000,67.857143 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,85.714286 L 45.000000,85.714286 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,103.571429 L 45.000000,103.571429 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,121.428571 L 45.000000,121.428571 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,139.285714 L 45.000000,139.285714 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,157.142857 L 45.000000,157.142857 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,175.000000 L 45.000000,175.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,50.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">0</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,67.857143)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">1</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,85.714286)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">2</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,103.571429)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">3</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,121.428571)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">4</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,139.285714)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">5</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,157.142857)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">6</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,175.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">7</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<polyline points="110 67.85714, 170 85.71429, 200 67.85714, 230 103.5714, 290 139.2857" style="stroke: rgb(100%,0%,0%); stroke-linecap: round; stroke-width: 1; fill: None;"/>
+					<circle cx="110.0" cy="67.85714285714286" r="2.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(100%,0%,0%);"/>
+					<circle cx="170.0" cy="85.71428571428572" r="2.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(100%,0%,0%);"/>
+					<circle cx="200.0" cy="67.85714285714286" r="2.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(100%,0%,0%);"/>
+					<circle cx="230.0" cy="103.57142857142857" r="2.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(100%,0%,0%);"/>
+					<circle cx="290.0" cy="139.28571428571428" r="2.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(100%,0%,0%);"/>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,110.000000,77.857143)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-3.75" y="-4.0"> 1</text>
+					</g>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,170.000000,95.714286)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-3.75" y="-4.0"> 2</text>
+					</g>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,200.000000,77.857143)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-3.75" y="-4.0"> 1</text>
+					</g>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,230.000000,113.571429)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-3.75" y="-4.0"> 3</text>
+					</g>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,290.000000,149.285714)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-3.75" y="-4.0"> 5</text>
+					</g>
+					<polyline points="110 85.71429, 170 103.5714, 200 85.71429, 260 139.2857, 290 157.1429" style="stroke: rgb(0%,0%,100%); stroke-linecap: round; stroke-width: 1; fill: None;"/>
+					<circle cx="110.0" cy="85.71428571428572" r="2.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(0%,0%,100%);"/>
+					<circle cx="170.0" cy="103.57142857142857" r="2.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(0%,0%,100%);"/>
+					<circle cx="200.0" cy="85.71428571428572" r="2.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(0%,0%,100%);"/>
+					<circle cx="260.0" cy="139.28571428571428" r="2.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(0%,0%,100%);"/>
+					<circle cx="290.0" cy="157.14285714285714" r="2.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0.1; fill: rgb(0%,0%,100%);"/>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,110.000000,95.714286)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-3.75" y="-4.0"> 2</text>
+					</g>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,170.000000,113.571429)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-3.75" y="-4.0"> 3</text>
+					</g>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,200.000000,95.714286)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-3.75" y="-4.0"> 2</text>
+					</g>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,260.000000,149.285714)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-3.75" y="-4.0"> 5</text>
+					</g>
+					<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,290.000000,167.142857)">
+						<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-3.75" y="-4.0"> 6</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="200" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 400 200" width="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="200" width="400" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-200)">
+		<g transform="">
+			<g transform=" matrix(0.000000,-1.000000,1.000000,0.000000,100.000000,175.000000)">
+				<g transform="">
+					<g transform="">
+						<rect height="37.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="10.0" x="2.5" y="12.5"/>
+						<rect height="7.499999999999993" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="10.0" x="17.5" y="50.0"/>
+						<rect height="12.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="10.0" x="32.5" y="50.0"/>
+						<rect height="25.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="10.0" x="47.5" y="50.0"/>
+						<rect height="20.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="10.0" x="62.5" y="50.0"/>
+						<rect height="17.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="10.0" x="77.5" y="50.0"/>
+						<rect height="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="10.0" x="92.5" y="50.0"/>
+						<rect height="2.5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="10.0" x="107.5" y="50.0"/>
+						<rect height="25.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="10.0" x="122.5" y="50.0"/>
+						<rect height="7.499999999999993" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);" width="10.0" x="137.5" y="50.0"/>
+						<g transform="">
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,7.500000,2.500000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="-13.674" y="-2.4000000000000004">-1.50</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,22.500000,67.500000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0.0" y="-2.4000000000000004">0.30</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,37.500000,72.500000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0.0" y="-2.4000000000000004">0.50</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,52.500000,85.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0.0" y="-2.4000000000000004">1.00</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,67.500000,80.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0.0" y="-2.4000000000000004">0.80</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,82.500000,77.500000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0.0" y="-2.4000000000000004">0.70</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,97.500000,70.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0.0" y="-2.4000000000000004">0.40</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,112.500000,62.500000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0.0" y="-2.4000000000000004">0.10</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,127.500000,85.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0.0" y="-2.4000000000000004">1.00</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,142.500000,67.500000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0.0" y="-2.4000000000000004">0.30</text>
+							</g>
+						</g>
+					</g>
+					<g transform="">
+						<g transform="">
+							<path d="M 0.000000,-1.000000 L 150.000000,-1.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						</g>
+						<g transform=""/>
+						<g transform="">
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,7.500000,-126.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0" y="-2.4000000000000004">UK Equities</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,22.500000,-126.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0" y="-2.4000000000000004">US Equities</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,37.500000,-126.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0" y="-2.4000000000000004">European Equities</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,52.500000,-126.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0" y="-2.4000000000000004">Japanese Equities</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,67.500000,-126.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0" y="-2.4000000000000004">Pacific (ex Japan) Equities</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,82.500000,-126.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0" y="-2.4000000000000004">Emerging Markets Equities</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,97.500000,-126.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0" y="-2.4000000000000004">UK Bonds</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,112.500000,-126.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0" y="-2.4000000000000004">Overseas Bonds</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,127.500000,-126.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0" y="-2.4000000000000004">UK Index-Linked</text>
+							</g>
+							<g transform=" matrix(0.000000,1.000000,-1.000000,0.000000,142.500000,-126.000000)">
+								<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,-4) scale(1,-1)" x="0" y="-2.4000000000000004">Cash</text>
+							</g>
+						</g>
+					</g>
+					<g transform=""/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

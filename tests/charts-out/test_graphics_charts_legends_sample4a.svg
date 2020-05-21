@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="100" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 200 100" width="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="100" width="200" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-100)">
+		<g transform="">
+			<g transform="">
+				<path d="M 57.220000,88.000000 L 67.220000,88.000000 Z" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text style="font-family: Helvetica; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,171) scale(1,-1)" x="29.887999999999998" y="85.585">RED</text>
+				<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,171) scale(1,-1)" x="20" y="85.585">red</text>
+				<path d="M 57.220000,68.000000 L 67.220000,68.000000 Z" style="stroke: rgb(0%,50%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text style="font-family: Helvetica; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,131) scale(1,-1)" x="12.548000000000002" y="65.585">GREEN</text>
+				<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,131) scale(1,-1)" x="20" y="65.585">green</text>
+				<path d="M 57.220000,48.000000 L 67.220000,48.000000 Z" style="stroke: rgb(0%,0%,100%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text style="font-family: Helvetica; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,91) scale(1,-1)" x="23.875999999999998" y="45.585">BLUE</text>
+				<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,91) scale(1,-1)" x="20" y="45.585">blue</text>
+				<path d="M 132.220000,88.000000 L 142.220000,88.000000 Z" style="stroke: rgb(100%,100%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text style="font-family: Helvetica; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,171) scale(1,-1)" x="80.204" y="85.585">YELLOW</text>
+				<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,171) scale(1,-1)" x="95" y="85.585">yellow</text>
+				<path d="M 132.220000,68.000000 L 142.220000,68.000000 Z" style="stroke: rgb(100%,75%,79%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text style="font-family: Helvetica; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,131) scale(1,-1)" x="102.21199999999999" y="65.585">PINK</text>
+				<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,131) scale(1,-1)" x="95" y="65.585">pink</text>
+				<path d="M 132.220000,48.000000 L 142.220000,48.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text style="font-family: Helvetica; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,91) scale(1,-1)" x="90.872" y="45.585">BLACK</text>
+				<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,91) scale(1,-1)" x="95" y="45.585">black</text>
+				<path d="M 207.220000,88.000000 L 217.220000,88.000000 Z" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text style="font-family: Helvetica; font-size: 12px; fill: rgb(0%,0%,0%);" transform="translate(0,171) scale(1,-1)" x="166.55599999999998" y="85.585">WHITE</text>
+				<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,171) scale(1,-1)" x="170" y="85.585">white</text>
+			</g>
+		</g>
+	</g>
+</svg>

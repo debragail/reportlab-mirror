@@ -1,0 +1,97 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 0 0 400 200
+%% Initialization:
+/m {moveto} bind def
+/l {lineto} bind def
+/c {curveto} bind def
+
+
+/RE { %def
+  findfont begin
+  currentdict dup length dict begin
+ { %forall
+   1 index /FID ne { def } { pop pop } ifelse
+ } forall
+ /FontName exch def dup length 0 ne { %if
+   /Encoding Encoding 256 array copy def
+   0 exch { %forall
+     dup type /nametype eq { %ifelse
+       Encoding 2 index 2 index put
+       pop 1 add
+     }{ %else
+       exch pop
+     } ifelse
+   } forall
+ } if pop
+  currentdict dup end end
+  /FontName get exch definefont pop
+} bind def
+
+/WinAnsiEncoding [
+  39/quotesingle 96/grave 128/euro 130/quotesinglbase/florin/quotedblbase
+  /ellipsis/dagger/daggerdbl/circumflex/perthousand
+  /Scaron/guilsinglleft/OE 145/quoteleft/quoteright
+  /quotedblleft/quotedblright/bullet/endash/emdash
+  /tilde/trademark/scaron/guilsinglright/oe/dotlessi
+  159/Ydieresis 164/currency 166/brokenbar 168/dieresis/copyright
+  /ordfeminine 172/logicalnot 174/registered/macron/ring
+  177/plusminus/twosuperior/threesuperior/acute/mu
+  183/periodcentered/cedilla/onesuperior/ordmasculine
+  188/onequarter/onehalf/threequarters 192/Agrave/Aacute
+  /Acircumflex/Atilde/Adieresis/Aring/AE/Ccedilla
+  /Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute
+  /Icircumflex/Idieresis/Eth/Ntilde/Ograve/Oacute
+  /Ocircumflex/Otilde/Odieresis/multiply/Oslash
+  /Ugrave/Uacute/Ucircumflex/Udieresis/Yacute/Thorn
+  /germandbls/agrave/aacute/acircumflex/atilde/adieresis
+  /aring/ae/ccedilla/egrave/eacute/ecircumflex
+  /edieresis/igrave/iacute/icircumflex/idieresis
+  /eth/ntilde/ograve/oacute/ocircumflex/otilde
+  /odieresis/divide/oslash/ugrave/uacute/ucircumflex
+  /udieresis/yacute/thorn/ydieresis
+] def
+
+WinAnsiEncoding /Times-Roman /Times-Roman RE
+WinAnsiEncoding /Times-Bold /Times-Bold RE
+
+0 0 0 setrgbcolor
+2 setlinecap
+0 setlinejoin
+1 setlinewidth
+gsave
+[1 0 0 1 0 0] concat
+0 setlinecap
+[] 0 setdash
+gsave
+[1 0 0 1 0 0] concat
+gsave
+(Times-Roman) findfont 12 scalefont setfont
+34 34 m (Hello World) show 
+grestore
+gsave
+(Times-Roman) findfont 16 scalefont setfont
+42 42 m (Hello World) show 
+grestore
+gsave
+(Times-Roman) findfont 20 scalefont setfont
+50 50 m (Hello World) show 
+grestore
+gsave
+(Times-Roman) findfont 24 scalefont setfont
+58 58 m (Hello World) show 
+grestore
+gsave
+(Times-Roman) findfont 28 scalefont setfont
+66 66 m (Hello World) show 
+grestore
+gsave
+(Times-Roman) findfont 32 scalefont setfont
+74 74 m (Hello World) show 
+grestore
+gsave
+(Times-Bold) findfont 36 scalefont setfont
+150 150 m (Hello World) show 
+grestore
+grestore
+grestore
+showpage

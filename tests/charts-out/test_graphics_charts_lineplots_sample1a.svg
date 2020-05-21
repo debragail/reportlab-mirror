@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="200" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 400 200" width="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="200" width="400" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-200)">
+		<g transform="">
+			<g transform="">
+				<g transform="">
+					<rect height="125" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: none;" width="300" x="50" y="50"/>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 50.000000,50.000000 L 350.000000,50.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 50.000000,50.000000 L 50.000000,45.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 110.000000,50.000000 L 110.000000,45.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 170.000000,50.000000 L 170.000000,45.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 230.000000,50.000000 L 230.000000,45.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 290.000000,50.000000 L 290.000000,45.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 350.000000,50.000000 L 350.000000,45.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,50.000000,45.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-2.5" y="-10.0">0</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,110.000000,45.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-2.5" y="-10.0">1</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,170.000000,45.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-2.5" y="-10.0">2</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,230.000000,45.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-2.5" y="-10.0">3</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,290.000000,45.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-2.5" y="-10.0">4</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,350.000000,45.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-2.5" y="-10.0">5</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 50.000000,50.000000 L 50.000000,175.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 50.000000,50.000000 L 45.000000,50.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,67.857143 L 45.000000,67.857143 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,85.714286 L 45.000000,85.714286 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,103.571429 L 45.000000,103.571429 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,121.428571 L 45.000000,121.428571 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,139.285714 L 45.000000,139.285714 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,157.142857 L 45.000000,157.142857 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 50.000000,175.000000 L 45.000000,175.000000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,50.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">0</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,67.857143)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">1</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,85.714286)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">2</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,103.571429)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">3</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,121.428571)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">4</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,139.285714)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">5</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,157.142857)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">6</text>
+						</g>
+						<g transform=" matrix(1.000000,0.000000,0.000000,1.000000,45.000000,175.000000)">
+							<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-5.0" y="-4.0">7</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<polyline points="110 67.85714, 170 85.71429, 200 67.85714, 230 103.5714, 290 139.2857" style="stroke: rgb(100%,0%,0%); stroke-linecap: round; stroke-width: 2; fill: None;"/>
+					<g transform=" matrix(0.100000,0.000000,0.000000,0.100000,110.000000,67.857143)">
+						<rect height="10.1" style="stroke: none; stroke-linecap: butt; stroke-width: 0.1; fill: none;" width="20.15" x="-0.05" y="-0.05"/>
+						<g transform="">
+							<rect height="100.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,50%);" width="200.0" x="0" y="0"/>
+							<polygon points="0 0, 22.5 0, 200 88.75, 200 100, 177.5 100, 0 11.25" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 88.75, 0 100, 22.5 100, 200 11.25, 200 0, 177.5 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 93.33333, 60 65, 70 65, 0 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="0 0, 70 35, 80 35, 10 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 100, 130 65, 120 65, 190 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 6.666667, 140 35, 130 35, 200 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="32.0" x="84.0" y="0"/>
+							<rect height="30.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="200.0" x="0" y="35.0"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="20.0" x="90.0" y="0"/>
+							<rect height="20.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="200.0" x="0" y="40.0"/>
+						</g>
+					</g>
+					<g transform=" matrix(0.100000,0.000000,0.000000,0.100000,170.000000,85.714286)">
+						<rect height="10.1" style="stroke: none; stroke-linecap: butt; stroke-width: 0.1; fill: none;" width="20.15" x="-0.05" y="-0.05"/>
+						<g transform="">
+							<rect height="100.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,50%);" width="200.0" x="0" y="0"/>
+							<polygon points="0 0, 22.5 0, 200 88.75, 200 100, 177.5 100, 0 11.25" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 88.75, 0 100, 22.5 100, 200 11.25, 200 0, 177.5 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 93.33333, 60 65, 70 65, 0 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="0 0, 70 35, 80 35, 10 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 100, 130 65, 120 65, 190 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 6.666667, 140 35, 130 35, 200 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="32.0" x="84.0" y="0"/>
+							<rect height="30.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="200.0" x="0" y="35.0"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="20.0" x="90.0" y="0"/>
+							<rect height="20.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="200.0" x="0" y="40.0"/>
+						</g>
+					</g>
+					<g transform=" matrix(0.100000,0.000000,0.000000,0.100000,200.000000,67.857143)">
+						<rect height="10.1" style="stroke: none; stroke-linecap: butt; stroke-width: 0.1; fill: none;" width="20.15" x="-0.05" y="-0.05"/>
+						<g transform="">
+							<rect height="100.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,50%);" width="200.0" x="0" y="0"/>
+							<polygon points="0 0, 22.5 0, 200 88.75, 200 100, 177.5 100, 0 11.25" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 88.75, 0 100, 22.5 100, 200 11.25, 200 0, 177.5 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 93.33333, 60 65, 70 65, 0 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="0 0, 70 35, 80 35, 10 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 100, 130 65, 120 65, 190 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 6.666667, 140 35, 130 35, 200 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="32.0" x="84.0" y="0"/>
+							<rect height="30.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="200.0" x="0" y="35.0"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="20.0" x="90.0" y="0"/>
+							<rect height="20.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="200.0" x="0" y="40.0"/>
+						</g>
+					</g>
+					<g transform=" matrix(0.100000,0.000000,0.000000,0.100000,230.000000,103.571429)">
+						<rect height="10.1" style="stroke: none; stroke-linecap: butt; stroke-width: 0.1; fill: none;" width="20.15" x="-0.05" y="-0.05"/>
+						<g transform="">
+							<rect height="100.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,50%);" width="200.0" x="0" y="0"/>
+							<polygon points="0 0, 22.5 0, 200 88.75, 200 100, 177.5 100, 0 11.25" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 88.75, 0 100, 22.5 100, 200 11.25, 200 0, 177.5 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 93.33333, 60 65, 70 65, 0 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="0 0, 70 35, 80 35, 10 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 100, 130 65, 120 65, 190 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 6.666667, 140 35, 130 35, 200 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="32.0" x="84.0" y="0"/>
+							<rect height="30.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="200.0" x="0" y="35.0"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="20.0" x="90.0" y="0"/>
+							<rect height="20.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="200.0" x="0" y="40.0"/>
+						</g>
+					</g>
+					<g transform=" matrix(0.100000,0.000000,0.000000,0.100000,290.000000,139.285714)">
+						<rect height="10.1" style="stroke: none; stroke-linecap: butt; stroke-width: 0.1; fill: none;" width="20.15" x="-0.05" y="-0.05"/>
+						<g transform="">
+							<rect height="100.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,50%);" width="200.0" x="0" y="0"/>
+							<polygon points="0 0, 22.5 0, 200 88.75, 200 100, 177.5 100, 0 11.25" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 88.75, 0 100, 22.5 100, 200 11.25, 200 0, 177.5 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 93.33333, 60 65, 70 65, 0 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="0 0, 70 35, 80 35, 10 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 100, 130 65, 120 65, 190 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 6.666667, 140 35, 130 35, 200 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="32.0" x="84.0" y="0"/>
+							<rect height="30.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="200.0" x="0" y="35.0"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="20.0" x="90.0" y="0"/>
+							<rect height="20.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="200.0" x="0" y="40.0"/>
+						</g>
+					</g>
+					<polyline points="110 85.71429, 170 103.5714, 200 85.71429, 260 139.2857, 290 157.1429" style="stroke: rgb(0%,0%,100%); stroke-linecap: round; stroke-width: 4; fill: None;"/>
+					<g transform=" matrix(0.100000,0.000000,0.000000,0.100000,110.000000,85.714286)">
+						<rect height="10.1" style="stroke: none; stroke-linecap: butt; stroke-width: 0.1; fill: none;" width="20.15" x="-0.05" y="-0.05"/>
+						<g transform="">
+							<rect height="100.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,50%);" width="200.0" x="0" y="0"/>
+							<polygon points="0 0, 22.5 0, 200 88.75, 200 100, 177.5 100, 0 11.25" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 88.75, 0 100, 22.5 100, 200 11.25, 200 0, 177.5 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 93.33333, 60 65, 70 65, 0 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="0 0, 70 35, 80 35, 10 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 100, 130 65, 120 65, 190 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 6.666667, 140 35, 130 35, 200 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="32.0" x="84.0" y="0"/>
+							<rect height="30.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="200.0" x="0" y="35.0"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="20.0" x="90.0" y="0"/>
+							<rect height="20.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="200.0" x="0" y="40.0"/>
+						</g>
+					</g>
+					<g transform=" matrix(0.100000,0.000000,0.000000,0.100000,170.000000,103.571429)">
+						<rect height="10.1" style="stroke: none; stroke-linecap: butt; stroke-width: 0.1; fill: none;" width="20.15" x="-0.05" y="-0.05"/>
+						<g transform="">
+							<rect height="100.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,50%);" width="200.0" x="0" y="0"/>
+							<polygon points="0 0, 22.5 0, 200 88.75, 200 100, 177.5 100, 0 11.25" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 88.75, 0 100, 22.5 100, 200 11.25, 200 0, 177.5 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 93.33333, 60 65, 70 65, 0 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="0 0, 70 35, 80 35, 10 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 100, 130 65, 120 65, 190 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 6.666667, 140 35, 130 35, 200 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="32.0" x="84.0" y="0"/>
+							<rect height="30.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="200.0" x="0" y="35.0"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="20.0" x="90.0" y="0"/>
+							<rect height="20.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="200.0" x="0" y="40.0"/>
+						</g>
+					</g>
+					<g transform=" matrix(0.100000,0.000000,0.000000,0.100000,200.000000,85.714286)">
+						<rect height="10.1" style="stroke: none; stroke-linecap: butt; stroke-width: 0.1; fill: none;" width="20.15" x="-0.05" y="-0.05"/>
+						<g transform="">
+							<rect height="100.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,50%);" width="200.0" x="0" y="0"/>
+							<polygon points="0 0, 22.5 0, 200 88.75, 200 100, 177.5 100, 0 11.25" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 88.75, 0 100, 22.5 100, 200 11.25, 200 0, 177.5 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 93.33333, 60 65, 70 65, 0 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="0 0, 70 35, 80 35, 10 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 100, 130 65, 120 65, 190 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 6.666667, 140 35, 130 35, 200 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="32.0" x="84.0" y="0"/>
+							<rect height="30.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="200.0" x="0" y="35.0"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="20.0" x="90.0" y="0"/>
+							<rect height="20.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="200.0" x="0" y="40.0"/>
+						</g>
+					</g>
+					<g transform=" matrix(0.100000,0.000000,0.000000,0.100000,260.000000,139.285714)">
+						<rect height="10.1" style="stroke: none; stroke-linecap: butt; stroke-width: 0.1; fill: none;" width="20.15" x="-0.05" y="-0.05"/>
+						<g transform="">
+							<rect height="100.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,50%);" width="200.0" x="0" y="0"/>
+							<polygon points="0 0, 22.5 0, 200 88.75, 200 100, 177.5 100, 0 11.25" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 88.75, 0 100, 22.5 100, 200 11.25, 200 0, 177.5 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 93.33333, 60 65, 70 65, 0 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="0 0, 70 35, 80 35, 10 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 100, 130 65, 120 65, 190 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 6.666667, 140 35, 130 35, 200 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="32.0" x="84.0" y="0"/>
+							<rect height="30.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="200.0" x="0" y="35.0"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="20.0" x="90.0" y="0"/>
+							<rect height="20.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="200.0" x="0" y="40.0"/>
+						</g>
+					</g>
+					<g transform=" matrix(0.100000,0.000000,0.000000,0.100000,290.000000,157.142857)">
+						<rect height="10.1" style="stroke: none; stroke-linecap: butt; stroke-width: 0.1; fill: none;" width="20.15" x="-0.05" y="-0.05"/>
+						<g transform="">
+							<rect height="100.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,50%);" width="200.0" x="0" y="0"/>
+							<polygon points="0 0, 22.5 0, 200 88.75, 200 100, 177.5 100, 0 11.25" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 88.75, 0 100, 22.5 100, 200 11.25, 200 0, 177.5 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);"/>
+							<polygon points="0 93.33333, 60 65, 70 65, 0 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="0 0, 70 35, 80 35, 10 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 100, 130 65, 120 65, 190 100" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<polygon points="200 6.666667, 140 35, 130 35, 200 0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="32.0" x="84.0" y="0"/>
+							<rect height="30.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(96%,100%,98%);" width="200.0" x="0" y="35.0"/>
+							<rect height="100.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="20.0" x="90.0" y="0"/>
+							<rect height="20.0" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(100%,0%,0%);" width="200.0" x="0" y="40.0"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

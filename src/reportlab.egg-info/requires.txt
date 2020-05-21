@@ -1,1 +1,1 @@
-pillow
+pillow>=7.1.2

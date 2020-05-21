@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="200" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 400 200" width="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="200" width="400" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-200)">
+		<g transform="">
+			<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(0%,0%,100%);" transform="translate(0,100) scale(1,-1)" x="50" y="50">Hello World</text>
+			<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(100%,100%,0%);" transform="translate(0,160) scale(1,-1)" x="80" y="80">Hello World</text>
+			<text style="font-family: Times-Roman; font-size: 10px; fill: rgb(100%,0%,0%);" transform="translate(0,220) scale(1,-1)" x="110" y="110">Hello World</text>
+		</g>
+	</g>
+</svg>

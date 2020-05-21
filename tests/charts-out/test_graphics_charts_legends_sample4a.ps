@@ -1,0 +1,162 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 0 0 200 100
+%% Initialization:
+/m {moveto} bind def
+/l {lineto} bind def
+/c {curveto} bind def
+
+
+/RE { %def
+  findfont begin
+  currentdict dup length dict begin
+ { %forall
+   1 index /FID ne { def } { pop pop } ifelse
+ } forall
+ /FontName exch def dup length 0 ne { %if
+   /Encoding Encoding 256 array copy def
+   0 exch { %forall
+     dup type /nametype eq { %ifelse
+       Encoding 2 index 2 index put
+       pop 1 add
+     }{ %else
+       exch pop
+     } ifelse
+   } forall
+ } if pop
+  currentdict dup end end
+  /FontName get exch definefont pop
+} bind def
+
+/WinAnsiEncoding [
+  39/quotesingle 96/grave 128/euro 130/quotesinglbase/florin/quotedblbase
+  /ellipsis/dagger/daggerdbl/circumflex/perthousand
+  /Scaron/guilsinglleft/OE 145/quoteleft/quoteright
+  /quotedblleft/quotedblright/bullet/endash/emdash
+  /tilde/trademark/scaron/guilsinglright/oe/dotlessi
+  159/Ydieresis 164/currency 166/brokenbar 168/dieresis/copyright
+  /ordfeminine 172/logicalnot 174/registered/macron/ring
+  177/plusminus/twosuperior/threesuperior/acute/mu
+  183/periodcentered/cedilla/onesuperior/ordmasculine
+  188/onequarter/onehalf/threequarters 192/Agrave/Aacute
+  /Acircumflex/Atilde/Adieresis/Aring/AE/Ccedilla
+  /Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute
+  /Icircumflex/Idieresis/Eth/Ntilde/Ograve/Oacute
+  /Ocircumflex/Otilde/Odieresis/multiply/Oslash
+  /Ugrave/Uacute/Ucircumflex/Udieresis/Yacute/Thorn
+  /germandbls/agrave/aacute/acircumflex/atilde/adieresis
+  /aring/ae/ccedilla/egrave/eacute/ecircumflex
+  /edieresis/igrave/iacute/icircumflex/idieresis
+  /eth/ntilde/ograve/oacute/ocircumflex/otilde
+  /odieresis/divide/oslash/ugrave/uacute/ucircumflex
+  /udieresis/yacute/thorn/ydieresis
+] def
+
+WinAnsiEncoding /Helvetica /Helvetica RE
+WinAnsiEncoding /Times-Roman /Times-Roman RE
+(Times-Roman) findfont 10 scalefont setfont
+0 0 0 setrgbcolor
+2 setlinecap
+0 setlinejoin
+1 setlinewidth
+gsave
+[1 0 0 1 0 0] concat
+0 setlinecap
+[] 0 setdash
+gsave
+[1 0 0 1 0 0] concat
+gsave
+[1 0 0 1 0 0] concat
+gsave
+1 0 0 setrgbcolor
+2 setlinewidth
+[] 0 setdash
+57.22 88 m 67.22 88 l stroke
+grestore
+gsave
+(Helvetica) findfont 12 scalefont setfont
+29.888 85.585 m (RED) show 
+grestore
+gsave
+20 85.585 m (red) show 
+grestore
+gsave
+0 .501961 0 setrgbcolor
+2 setlinewidth
+[] 0 setdash
+57.22 68 m 67.22 68 l stroke
+grestore
+gsave
+(Helvetica) findfont 12 scalefont setfont
+12.548 65.585 m (GREEN) show 
+grestore
+gsave
+20 65.585 m (green) show 
+grestore
+gsave
+0 0 1 setrgbcolor
+2 setlinewidth
+[] 0 setdash
+57.22 48 m 67.22 48 l stroke
+grestore
+gsave
+(Helvetica) findfont 12 scalefont setfont
+23.876 45.585 m (BLUE) show 
+grestore
+gsave
+20 45.585 m (blue) show 
+grestore
+gsave
+1 1 0 setrgbcolor
+2 setlinewidth
+[] 0 setdash
+132.22 88 m 142.22 88 l stroke
+grestore
+gsave
+(Helvetica) findfont 12 scalefont setfont
+80.204 85.585 m (YELLOW) show 
+grestore
+gsave
+95 85.585 m (yellow) show 
+grestore
+gsave
+1 .752941 .796078 setrgbcolor
+2 setlinewidth
+[] 0 setdash
+132.22 68 m 142.22 68 l stroke
+grestore
+gsave
+(Helvetica) findfont 12 scalefont setfont
+102.212 65.585 m (PINK) show 
+grestore
+gsave
+95 65.585 m (pink) show 
+grestore
+gsave
+2 setlinewidth
+[] 0 setdash
+132.22 48 m 142.22 48 l stroke
+grestore
+gsave
+(Helvetica) findfont 12 scalefont setfont
+90.872 45.585 m (BLACK) show 
+grestore
+gsave
+95 45.585 m (black) show 
+grestore
+gsave
+1 1 1 setrgbcolor
+2 setlinewidth
+[] 0 setdash
+207.22 88 m 217.22 88 l stroke
+grestore
+gsave
+(Helvetica) findfont 12 scalefont setfont
+166.556 85.585 m (WHITE) show 
+grestore
+gsave
+170 85.585 m (white) show 
+grestore
+grestore
+grestore
+grestore
+showpage
