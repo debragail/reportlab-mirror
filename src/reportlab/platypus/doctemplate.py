@@ -1,6 +1,8 @@
 #Copyright ReportLab Europe Ltd. 2000-2017
 #see license.txt for license details
 #history https://hg.reportlab.com/hg-public/reportlab/log/tip/src/reportlab/platypus/doctemplate.py
+import secrets
+
 __all__ = (
         'ActionFlowable',
         'BaseDocTemplate',
@@ -1363,9 +1365,8 @@ if __name__ == '__main__':
         normal.firstLineIndent = 18
         normal.spaceBefore = 6
         from reportlab.lib.randomtext import randomText
-        import random
         for i in range(15):
-            height = 0.5 + (2*random.random())
+            height = 0.5 + (2*secrets.SystemRandom().random())
             box = XBox(6 * inch, height * inch, 'Box Number %d' % i)
             objects_to_draw.append(box)
             para = Paragraph(randomText(), normal)
