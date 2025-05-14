@@ -1,6 +1,8 @@
 #Copyright ReportLab Europe Ltd. 2000-2017
 #see license.txt for license details
 # $URI:$
+import tempfile
+
 __version__='3.3.0'
 __doc__='''Helper for the test suite - determines where to write output.
 
@@ -34,5 +36,6 @@ def get_rl_tempdir(*subdirs):
 
 def get_rl_tempfile(fn=None):
     if not fn:
-        fn = tempfile.mktemp()
+        with tempfile.NamedTemporaryFile(delete=False) as tf:
+            fn = tf.name
     return os.path.join(get_rl_tempdir(),fn)
