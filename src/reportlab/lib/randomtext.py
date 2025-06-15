@@ -3,6 +3,8 @@
 #see license.txt for license details
 #history https://hg.reportlab.com/hg-public/reportlab/log/tip/src/reportlab/lib/randomtext.py
 
+import secrets
+
 __version__='3.3.0'
 
 ###############################################################################
@@ -301,14 +303,13 @@ def format_wisdom(text,line_length=72):
 def chomsky(times = 1):
     if not isinstance(times, int):
         return format_wisdom(__doc__)
-    import random
     prevparts = []
     newparts = []
     output = []
     for i in range(times):
         for partlist in (leadins, subjects, verbs, objects):
             while 1:
-                part = random.choice(partlist)
+                part = secrets.choice(partlist)
                 if part not in prevparts:
                     break
             newparts.append(part)
@@ -396,7 +397,7 @@ if rl_config.invariant:
         del RLMonkeyPatchRandom
     if not getattr(rl_config,'_random',None):
         rl_config._random = 1
-        random.seed(2342471922)
+        secrets.SystemRandom().seed(2342471922)
     del random, isPy3
 del rl_config
 
@@ -409,17 +410,15 @@ def randomText(theme=STARTUP, sentences=5):
         else:
             raise ValueError('Unknown theme "%s"' % theme)
 
-    from random import randint, choice
-
     RANDOMWORDS = theme
 
     #sentences = 5
     output = ""
-    for sentenceno in range(randint(1,sentences)):
+    for sentenceno in range(secrets.SystemRandom().randint(1,sentences)):
         output = output + 'Blah'
-        for wordno in range(randint(10,25)):
-            if randint(0,4)==0:
-                word = choice(RANDOMWORDS)
+        for wordno in range(secrets.SystemRandom().randint(10,25)):
+            if secrets.SystemRandom().randint(0,4)==0:
+                word = secrets.choice(RANDOMWORDS)
             else:
                 word = 'blah'
             output = output + ' ' +word
