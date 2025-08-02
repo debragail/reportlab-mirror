@@ -82,35 +82,35 @@ if  __name__=='__main__':
             if not os.path.isdir(DIR): os.mkdir(DIR)
             c.saveToFile(os.path.join(DIR,"test_renderPM_%03d.gif"%n))
             if txt:
-                f = open(os.path.join(DIR,"test_renderPM_%03d.txt"%n),'w')
-                b = c.pixBuf
-                w = c.width
-                h = c.height
-                k = 0
-                for i in range(h):
-                    f.write('%6.6x: '% i );
-                    for j in range(w):
-                        v = (ord(b[k])<<16) | (ord(b[k+1])<<8) | ord(b[k+2])
-                        k = k + 3
-                        f.write(' %6.6x'%v)
-                    f.write('\n')
-
-                if pil:
-                    from PIL import Image
-                    im = Image.new('RGB', size=(w, h))
-                    im.fromstring(b)
-                    f.write('PIL\n')
+                with open(os.path.join(DIR,"test_renderPM_%03d.txt"%n),'w') as f:
+                    b = c.pixBuf
+                    w = c.width
+                    h = c.height
+                    k = 0
                     for i in range(h):
                         f.write('%6.6x: '% i );
                         for j in range(w):
-                            v = im.getpixel((i,j))
-                            f.write(' %2.2x%2.2x%2.2x'%v)
+                            v = (ord(b[k])<<16) | (ord(b[k+1])<<8) | ord(b[k+2])
+                            k = k + 3
+                            f.write(' %6.6x'%v)
                         f.write('\n')
-                    im.save(os.path.join(DIR,"test_renderPM_%03dx.jpg"%n),'JPEG')
-                    im.save(os.path.join(DIR,"test_renderPM_%03dx.bmp"%n),'BMP')
-                    im.save(os.path.join(DIR,"test_renderPM_%03dx.tif"%n),'TIFF')
-                    im = im.convert("P", dither=Image.NONE, palette=Image.ADAPTIVE)
-                    im.save(os.path.join(DIR,"test_renderPM_%03dx.gif"%n),'GIF')
+
+                    if pil:
+                        from PIL import Image
+                        im = Image.new('RGB', size=(w, h))
+                        im.fromstring(b)
+                        f.write('PIL\n')
+                        for i in range(h):
+                            f.write('%6.6x: '% i );
+                            for j in range(w):
+                                v = im.getpixel((i,j))
+                                f.write(' %2.2x%2.2x%2.2x'%v)
+                            f.write('\n')
+                        im.save(os.path.join(DIR,"test_renderPM_%03dx.jpg"%n),'JPEG')
+                        im.save(os.path.join(DIR,"test_renderPM_%03dx.bmp"%n),'BMP')
+                        im.save(os.path.join(DIR,"test_renderPM_%03dx.tif"%n),'TIFF')
+                        im = im.convert("P", dither=Image.NONE, palette=Image.ADAPTIVE)
+                        im.save(os.path.join(DIR,"test_renderPM_%03dx.gif"%n),'GIF')
 
         def flagged(n):
             return str(n) in sys.argv or 'all' in sys.argv
